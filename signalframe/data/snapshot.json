@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T03:05:22.177Z",
+  "lastUpdated": "2026-01-20T03:28:39.500Z",
   "narrative": "Geopolitical Fragmentation: The Russia-Ukraine war persists, while Trump's unpredictable diplomacy strains transatlantic alliances through tariff threats, including those over Greenland, and his unconventional approach to international crises like the Gaza situation further destabilizes the global order.\n\nEconomic Instability and Trade Frictions: Escalating U.S.-Europe trade tensions, exemplified by threats of tariffs, create significant market uncertainty. Concurrently, internal U.S. economic divisions, highlighted by contrasts between growth and widening inequality, complicate the national economic landscape.\n\nUS Domestic Political Instability: The country faces a confluence of crises, including a major transportation disaster in Spain, ongoing violence in Guatemala, and complex geopolitical developments like Syria's shifting control, reflecting heightened instability and challenges within the United States.\n\nAuthoritarian Resurgence: The return of Assad to power in Syria demonstrates a regional trend. Simultaneously, Iran employs hybrid warfare tactics, Hezbollah leverages Venezuela's political shifts, and the U.S. grapples with internal governance challenges, signaling a broader global pattern.\n\nTechnological Disruption: The rapid advancement and integration of AI into various sectors, including finance, health, and daily life, drives economic and social change. Simultaneously, geopolitical actors increasingly utilize technology for strategic advantage, exemplified by digital conflicts and the decline of platforms like the metaverse.",
   "signals": [
     {
@@ -942,7 +942,7 @@
   ],
   "globalState": {
     "isOnline": true,
-    "lastChecked": "2026-01-20T03:04:31.018Z",
+    "lastChecked": "2026-01-20T03:28:36.275Z",
     "lastError": null
   }
 }
