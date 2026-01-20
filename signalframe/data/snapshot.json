@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T04:24:55.181Z",
+  "lastUpdated": "2026-01-20T04:27:37.977Z",
   "narrative": "Geopolitical Instability: The conflict in Ukraine continues, while new tensions emerge between the US and its European allies over territorial claims and trade disputes, including threats regarding Greenland. Simultaneously, the Middle East faces ongoing instability, exemplified by disputes surrounding the Gaza \"Board of Peace\" and shifting control in Syria.\n\nEconomic Policy Impacts: The Trump administration's protectionist tariffs and trade demands create significant financial market volatility and reshape international economic strategies, impacting investor confidence and cross-border commerce.\n\nAI and Technology Advancements: Significant developments occur in AI infrastructure, applications, and security, alongside declines in related traditional industries like smartphone manufacturing, reflecting broader shifts in the technology landscape.\n\nHumanitarian Crises and Safety Failures: Recent high-profile accidents, fires, and infrastructure failures highlight gaps in emergency response and safety management across multiple regions, raising concerns about public safety and crisis preparedness.\n\nGovernance and Diplomatic Conflicts: Disputes over sovereignty, peace initiatives, and legal challenges involving international relations and domestic policies dominate diplomatic discourse, reflecting complex interactions between states and non-state actors.",
   "signals": [
     {
@@ -156,503 +156,90 @@
   "mapPoints": [
     {
       "id": "map-0",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
+      "lat": 38.8779,
+      "lng": -77.0143,
+      "title": "Greenland Tariffs",
       "sentiment": "neutral",
-      "category": "Other",
-      "description": "Supreme Court session attended by Fed Chair Powell.",
-      "sourceLink": "https://www.aljazeera.com/us-fed-chair-powell-attend-supreme-court-Cook-case-report-2024-01-07"
+      "category": "Geopolitical",
+      "description": "U.S. President Trump threatens tariffs on European goods, prompting EU leaders to vow stronger de...",
+      "sourceLink": "https://www.aljazeera.com/news/2024/1/1/100-texts-trump-greenland-tariffs-war",
+      "signalId": "sig_b9568183"
     },
     {
       "id": "map-1",
-      "lat": 51.5,
-      "lng": -0.1,
-      "title": "London",
-      "sentiment": "negative",
+      "lat": 50.5166,
+      "lng": -0.1338,
+      "title": "Greenland Tariffs",
+      "sentiment": "neutral",
       "category": "Geopolitical",
-      "description": "Trump threatens tariffs on Europe, including UK.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/europe-tensions-greenland-trade"
+      "description": "UK Prime Minister and opposition figure condemn Trump's tariffs threat as politically motivated.",
+      "sourceLink": "https://www.aljazeera.com/news/2024/1/1/100-texts-trump-greenland-tariffs-war",
+      "signalId": "sig_b9568183"
     },
     {
       "id": "map-2",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
+      "lat": 48.2082,
+      "lng": 16.3738,
+      "title": "Spain Rail Crash",
       "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Trump's threats over Greenland cause diplomatic friction.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/europe-tensions-greenland-trade"
+      "category": "Other",
+      "description": "Spain's worst rail crash in a decade kills 40, prompting three days of national mourning.",
+      "sourceLink": "https://www.nytimes.com/2024/1/1/spain-train-crash-mourning.html",
+      "signalId": "sig_d547b0d0"
     },
     {
       "id": "map-3",
-      "lat": 48.85,
-      "lng": 2.35,
-      "title": "Paris",
+      "lat": 54.2056,
+      "lng": -5.9258,
+      "title": "Spain Rail Crash",
       "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "EU condemns Trump's tariff threats.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/europe-tensions-greenland-trade"
+      "category": "Other",
+      "description": "Spanish PM vows to find cause of deadly high-speed train crash, with investigations into safety.",
+      "sourceLink": "https://www.bbc.com/news/world-europe-68000000"
     },
     {
       "id": "map-4",
-      "lat": 55,
-      "lng": -3,
-      "title": "Edinburgh",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "UK leader criticizes Trump's actions.",
-      "sourceLink": "https://www.aljazeera.com/politics/2024/1/7/norway-pm-trump-greenland-nobel-peace-prize-texts-preoccupied"
+      "lat": 39.0742,
+      "lng": -94.5786,
+      "title": "BioticsAI Fetal Ultrasound",
+      "sentiment": "positive",
+      "category": "Tech/AI",
+      "description": "BioticsAI's AI-powered fetal ultrasound receives FDA clearance for detecting fetal abnormalities.",
+      "sourceLink": "https://www.techcrunch.com/2024/1/1/bioticsai-fetal-ultrasound-fda-clearance/",
+      "signalId": "sig_dccb7b34"
     },
     {
       "id": "map-5",
-      "lat": 50,
-      "lng": 5,
-      "title": "Brussels",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "EU foreign policy chief holds ground against Trump.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/europe-tensions-greenland-trade"
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "title": "U.S. AI Startups",
+      "sentiment": "positive",
+      "category": "Tech/AI",
+      "description": "55 US AI startups raised over $100M in 2025, showing strong investment in the sector.",
+      "sourceLink": "https://www.techcrunch.com/2024/1/1/55-us-ai-startups-raised-100m-2025/",
+      "signalId": "sig_a4fbb118"
     },
     {
       "id": "map-6",
-      "lat": 37,
-      "lng": -122,
-      "title": "San Francisco",
+      "lat": 39.8283,
+      "lng": -98.5795,
+      "title": "Economic Inequality",
       "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Stock futures slump due to trade tensions.",
-      "sourceLink": "https://www.marketwatch.com/story/stock-futures-slump-as-us-europe-trade-tensions-ramp-up-over-trump%E2%80%99s-greenland-demands"
+      "category": "Financial",
+      "description": "Economic growth strong, but gap between rich and poor widens, raising concerns about systemic iss...",
+      "sourceLink": "https://www.aljazeera.com/economy/2024/1/1/us-economy-strong-but-gap-between-rich-poor-widening",
+      "signalId": "sig_6bdfed61"
     },
     {
       "id": "map-7",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spanish PM vows to find cause of train crash.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/spain-train-crash-investigation"
-    },
-    {
-      "id": "map-8",
-      "lat": 36,
-      "lng": -1,
-      "title": "Seville",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spain's worst rail disaster in over a decade.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/spain-train-crash-39-deaths"
-    },
-    {
-      "id": "map-9",
-      "lat": 35,
-      "lng": -10,
-      "title": "Lisbon",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spanish train crash claims 39 lives.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/spain-train-crash-39-deaths"
-    },
-    {
-      "id": "map-10",
-      "lat": 36,
-      "lng": -120,
-      "title": "Sacramento",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "title": "OpenAI Focus Shift",
       "sentiment": "neutral",
-      "category": "Other",
-      "description": "US economic growth under Trump administration.",
-      "sourceLink": "https://www.aljazeera.com/opinion/2024/1/7/us-economy-seems-strong-after-year-of-trump-but-is-it-really"
-    },
-    {
-      "id": "map-11",
-      "lat": 32,
-      "lng": 35,
-      "title": "Tel Aviv",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Israeli Finance Minister criticizes Trump's Gaza plan.",
-      "sourceLink": "https://www.aljazeera.com/opinion/2024/1/7/smotrich-trumps-plan-for-gaza-is-bad-for-israel"
-    },
-    {
-      "id": "map-12",
-      "lat": 33,
-      "lng": 35,
-      "title": "Jerusalem",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Trump's plan for Gaza draws criticism.",
-      "sourceLink": "https://www.aljazeera.com/opinion/2024/1/7/trumps-gaza-board-of-peace-draws-scepticism"
-    },
-    {
-      "id": "map-13",
-      "lat": 39,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spain implements ceasefire in Syria.",
-      "sourceLink": "https://www.aljazeera.com/opinion/2024/1/7/clashes-reported-after-syria-and-kurdish-led-forces-agree-ceasefire"
-    },
-    {
-      "id": "map-14",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Syrian army takes control of Kurdish areas.",
-      "sourceLink": "https://www.aljazeera.com/opinion/2024/1/7/could-events-in-syria-have-a-wider-impact-for-kurds"
-    },
-    {
-      "id": "map-15",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "neutral",
-      "category": "Science",
-      "description": "Hedgehogs using tools in UK gardens.",
-      "sourceLink": "https://www.bbc.com/science/2024/01/24/hedgehogs-use-tools-after-dark"
-    },
-    {
-      "id": "map-16",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Clashes erupt around Syrian prisons.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/world/europe/russia-ukraine-war-day-1426"
-    },
-    {
-      "id": "map-17",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "neutral",
-      "category": "Science",
-      "description": "Cows use tools for the first time in scientific study.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/science/cows-use-tools-study-veronika"
-    },
-    {
-      "id": "map-18",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "neutral",
-      "category": "Science",
-      "description": "Antarctica reporting history from Times journalists.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/science/antarctica-times-reporting-history"
-    },
-    {
-      "id": "map-19",
-      "lat": 51.5,
-      "lng": -0.1,
-      "title": "London",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Trump's plan for Gaza is criticized.",
-      "sourceLink": "https://www.aljazeera.com/opinion/2024/1/7/trumps-gaza-board-of-peace-draws-s scepticism"
-    },
-    {
-      "id": "map-20",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Powell attends Supreme Court session.",
-      "sourceLink": "https://www.aljazeera.com/us-fed-chair-powell-attend-supreme-Cook-case-report-2024-01-07"
-    },
-    {
-      "id": "map-21",
-      "lat": 36,
-      "lng": -116,
-      "title": "Phoenix",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Slow emergency response in Pakistan mall fire.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/world/middleeast/pakistan-mall-fire-karachi"
-    },
-    {
-      "id": "map-22",
-      "lat": 32,
-      "lng": -86,
-      "title": "Nashville",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Cancer patients warned about hospital water infections.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/cancer-patients-hospital-water-infections-warning"
-    },
-    {
-      "id": "map-23",
-      "lat": 51.5,
-      "lng": -0.1,
-      "title": "London",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Trump's Greenland tariffs threaten to damage US-EU relations.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/europe-tensions-greenland-trade"
-    },
-    {
-      "id": "map-24",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spain's worst rail disaster in over a decade.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/spain-train-crash-39-deaths"
-    },
-    {
-      "id": "map-25",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Clashes in Syria over control of prisons.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/world/europe/russia-ukraine-war-day-1426"
-    },
-    {
-      "id": "map-26",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Kurdish fighters hand over control of prisons.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/world/europe/russia-ukraine-war-day-1426"
-    },
-    {
-      "id": "map-27",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Syria and Kurdish forces agree ceasefire.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/clashes-reported-after-syria-and-kurdish-led-forces-agree-ceasefire"
-    },
-    {
-      "id": "map-28",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "US Fed Chair Powell attends Supreme Court session.",
-      "sourceLink": "https://www.aljazeera.com/us-fed-chair-powell-attend-supreme-court-Cook-case-report-2024-01-07"
-    },
-    {
-      "id": "map-29",
-      "lat": 35,
-      "lng": -10,
-      "title": "Lisbon",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "South Africa bus collision kills children.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/south-africa-bus-collision-kids"
-    },
-    {
-      "id": "map-30",
-      "lat": 14,
-      "lng": -90,
-      "title": "Guatemala City",
-      "sentiment": "negative",
-      "category": "Other",
-      "description": "State of emergency declared after prison gang violence.",
-      "sourceLink": "https://www.theguardian.com/world/2024/01/07/guatemala-declares-state-of-emergency-after-prison-violence"
-    },
-    {
-      "id": "map-31",
-      "lat": 32,
-      "lng": -97,
-      "title": "Austin",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Israel military raid in occupied West Bank.",
-      "sourceLink": "https://www.aljazeera.com/middleeast/2024/01/07/israel-launches-large-scale-military-raid-in-occupied-west-bank%E2%80%99s-hebron"
-    },
-    {
-      "id": "map-32",
-      "lat": 37,
-      "lng": -122,
-      "title": "San Francisco",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Trump asks Putin to join Gaza board of peace.",
-      "sourceLink": "https://www.aljazeera.com/middleeast/2024/01/07/trump-asks-putin-to-join-gaza-board-of-peace-even-as-ukraine-war-rages"
-    },
-    {
-      "id": "map-33",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "US-EU trade tensions escalate with stock futures slump.",
-      "sourceLink": "https://www.marketwatch.com/story/stock-futures-slump-as-us-europe-trade-tensions-ramp-up-over-trump%E2%80%99s-greenland-demands"
-    },
-    {
-      "id": "map-34",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spain's worst rail disaster in over a decade.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01 "
-    },
-    {
-      "id": "map-35",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "neutral",
-      "category": "Science",
-      "description": "Hedgehogs use tools after dark.",
-      "sourceLink": "https://www.bbc.com/science/2024/01/24/hedgehogs-use-tools-after-dark"
-    },
-    {
-      "id": "map-36",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "neutral",
-      "category": "Science",
-      "description": "Cows use tools for the first time.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/science/cows-use-tools-study-veronika"
-    },
-    {
-      "id": "map-37",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "neutral",
-      "category": "Science",
-      "description": "Antarctica reporting history.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/science/antarctica-times-reporting-history"
-    },
-    {
-      "id": "map-38",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "neutral",
-      "category": "Science",
-      "description": "US Fed Chair Powell attends Supreme Court session.",
-      "sourceLink": "https://www.aljazeera.com/us-fed-chair-powell-attend-supreme-court-Cook-case-report-2024-01-07"
-    },
-    {
-      "id": "map-39",
-      "lat": 51.5,
-      "lng": -0.1,
-      "title": "London",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Trump's tariff threats over Greenland.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/europe-tensions-greenland-trade"
-    },
-    {
-      "id": "map-40",
-      "lat": 36,
-      "lng": -120,
-      "title": "Phoenix",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Slow emergency response in Pakistan mall fire.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/world/middleeast/pakistan-mall-fire-karachi"
-    },
-    {
-      "id": "map-41",
-      "lat": 32,
-      "lng": -86,
-      "title": "Nashville",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Cancer patients warned about hospital water infections.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/cancer-patients-hospital-water-infections-warning"
-    },
-    {
-      "id": "map-42",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spain's worst rail disaster in over a decade.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/spain-train-crash-39-deaths"
-    },
-    {
-      "id": "map-43",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "US Fed Chair Powell attends Supreme Court session.",
-      "sourceLink": "https://www.aljazeera.com/us-fed-chair-powell-attend-supreme-court-Cook-case-report-2024-01-07"
-    },
-    {
-      "id": "map-44",
-      "lat": 36,
-      "lng": -116,
-      "title": "Phoenix",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Slow emergency response in Pakistan mall fire.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/world/middleeast/pakistan-mall-fire-karachi"
-    },
-    {
-      "id": "map-45",
-      "lat": 32,
-      "lng": -86,
-      "title": "Nashville",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Cancer patients warned about hospital water infections.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/cancer-patients-hospital-water-infections-warning"
-    },
-    {
-      "id": "map-46",
-      "lat": 40,
-      "lng": -3,
-      "title": "Madrid",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "Spain's worst rail disaster in over a decade.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/spain-train-crash-39-deaths"
-    },
-    {
-      "id": "map-47",
-      "lat": 34,
-      "lng": -118,
-      "title": "Los Angeles",
-      "sentiment": "negative",
-      "category": "Geopolitical",
-      "description": "US Fed Chair Powell attends Supreme Court session.",
-      "sourceLink": "https://www.aljazeera.com/us-fed-chair-powell-attend-supreme-court-Cook-case-report-2024-01-07"
-    },
-    {
-      "id": "map-48",
-      "lat": 36,
-      "lng": -116,
-      "title": "Phoenix",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Slow emergency response in Pakistan mall fire.",
-      "sourceLink": "https://www.nytimes.com/2024/01/07/world/middleeast/pakistan-mall-fire-karachi"
-    },
-    {
-      "id": "map-49",
-      "lat": 32,
-      "lng": -86,
-      "title": "Nashville",
-      "sentiment": "negative",
-      "category": "Health",
-      "description": "Cancer patients warned about hospital water infections.",
-      "sourceLink": "https://www.bbc.com/news/articles/2024-01-07/cancer-patients-hospital-water-infections-warning"
+      "category": "Tech/AI",
+      "description": "OpenAI shifts focus from development to practical adoption of AI, marking a new phase in strategy.",
+      "sourceLink": "https://www.theverge.com/2024/1/1/openai-focus-practical-adoption-ai",
+      "signalId": "sig_1037ccb6"
     }
   ],
   "availableDates": [
@@ -676,7 +263,7 @@
       "topic": "Threats and tensions between the two nations",
       "status": "Tensions remain very high with widespread antigovernment protests and government crackdowns, including reports of mass arrests and lethal force. Geoeconomic confrontation is seen as the top threat, and the situation could escalate further. Additionally, Iran is under an internet blackout following the protests.",
       "sentiment": "very-negative",
-      "lastUpdate": "2026-01-20T02:50:18.810Z"
+      "lastUpdate": "2026-01-20T04:26:13.395Z"
     },
     {
       "id": "uu21ptlrn",
@@ -685,7 +272,7 @@
       "topic": "Trade tariffs",
       "status": "No new developments found in current scan. The relationship remains stable with scheduled discussions on economic issues.",
       "sentiment": "neutral",
-      "lastUpdate": "2026-01-20T02:50:18.810Z"
+      "lastUpdate": "2026-01-20T04:26:13.395Z"
     },
     {
       "id": "sqkoq1auy",
@@ -694,7 +281,7 @@
       "topic": "AI supremacy race",
       "status": "The AI supremacy race continues with both nations investing heavily in AI technology. Recent developments include Google's Gemini integrating user data for AI personalization, and ongoing trade tensions. The trade war remains tense, but no direct escalation in AI-related conflicts is reported.",
       "sentiment": "somewhat-negative",
-      "lastUpdate": "2026-01-20T02:50:18.810Z"
+      "lastUpdate": "2026-01-20T04:26:13.395Z"
     },
     {
       "id": "js1346v09",
@@ -703,7 +290,7 @@
       "topic": "Robotics",
       "status": "No specific developments in robotics reported beyond the historical trade war context. China is involved in trade tensions, but no updates on the robotics sector.",
       "sentiment": "neutral",
-      "lastUpdate": "2026-01-20T02:50:18.810Z"
+      "lastUpdate": "2026-01-20T04:26:13.395Z"
     }
   ],
   "bigPicture": {
