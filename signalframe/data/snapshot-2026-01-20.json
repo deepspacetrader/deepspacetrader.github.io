@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T19:01:37.281Z",
+  "lastUpdated": "2026-01-20T19:20:21.114Z",
   "narrative": "Humanitarian Crises and Disasters: Multiple severe disasters (train crash in Spain, Chile wildfires, Karachi fire) and a major terrorist attack (Kabul restaurant) are causing significant loss of life and displacement. Somalia faces a severe malnutrition crisis. These events are assessed as extremely negative or very negative due to the scale of suffering.\n\nGeopolitical Instability and Conflict: Escalating tensions include Ukraine (Russian strikes, Zelensky's warnings), Afghanistan (security concerns post-IS attack), Syria (Kurdish forces pushed out, government gains control), and the persistent Israel-Palestine conflict (UNRWA building demolitions). Trump's rhetoric regarding Greenland and potential tariffs adds another layer of international friction. This theme is assessed as very negative or extremely negative due to the serious conflicts, security fears, and instability.\n\nClimate Change and Environmental Failures: Wildfires in Chile and Karachi highlight environmental disasters linked to climate change, while the Karachi fire also exposed failures in urban governance and rescue capacity. These incidents are assessed as extremely negative or very negative due to the devastating impact on populations and infrastructure.\n\nEconomic Pressures and Market Volatility: Market anxiety is rising due to Trump's tariff threats impacting trade (Sell America trade, European concerns). Bond yields in Japan are at record highs, signaling economic stress. Natural gas prices have surged due to cold weather. These economic developments are assessed as negative due to the potential for widespread financial disruption and hardship.\n\nGovernance Failures and Emerging Concerns: Issues include questions surrounding Uganda's election process, concerns over political interference in judiciary matters (Bobi Wine case), failures in Australia's response to the Bondi shooting, and criticism of US foreign policy by religious leaders. Debates around digital citizenship (Bangladesh) and failures of global justice institutions are also emerging. These developments are assessed as somewhat-negative or neutral, reflecting concerns about stability, accountability, and systemic issues without full-blown crisis.",
   "signals": [
     {
@@ -342,7 +342,159 @@
       "signalId": "sig_abc123"
     }
   ],
-  "mapPoints": [],
+  "mapPoints": [
+    {
+      "id": "map-0",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "New York City",
+      "sentiment": "neutral",
+      "category": "Geopolitical",
+      "description": "US President Trump's aggressive tariff policies against European allies have intensified market v...",
+      "sourceLink": "https://www.nytimes.com/2024/10/28/world/europe/trump-greenland-tariffs-europe-bazooka.html",
+      "signalId": "sig_ec2964d3"
+    },
+    {
+      "id": "map-1",
+      "lat": 37.3891,
+      "lng": -5.9845,
+      "title": "Córdoba",
+      "sentiment": "very-negative",
+      "category": "Accident",
+      "description": "Spain's deadliest train crash in a decade has killed at least 41 people near Córdoba.",
+      "sourceLink": "https://www.aljazeera.com/asia/2024/10/28/spain-mourns-train-crash-victims-investigators-focus-track",
+      "signalId": "sig_2a31223"
+    },
+    {
+      "id": "map-2",
+      "lat": -27.4698,
+      "lng": 153.0333,
+      "title": "Sydney, Australia",
+      "sentiment": "very-negative",
+      "category": "Disaster",
+      "description": "Natural gas prices surge as temperatures drop, posing a tough test for markets.",
+      "sourceLink": "https://www.marketwatch.com/2024/10/28/natural-gas-prices-soar-as-temperatures-drop/"
+    },
+    {
+      "id": "map-3",
+      "lat": 31.2931,
+      "lng": 71.8056,
+      "title": "Karachi, Pakistan",
+      "sentiment": "very-negative",
+      "category": "Fire",
+      "description": "Gul Plaza fire exposed Karachi’s safety failures in urban governance.",
+      "sourceLink": "https://www.aljazeera.com/asia/2024/10/28/gul-plaza-fire-how-a- deadly-inferno-exposed-karachis-safety-failures"
+    },
+    {
+      "id": "map-4",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "New York City",
+      "sentiment": "negative",
+      "category": "Attack",
+      "description": "Islamic State claimed responsibility for a deadly drone attack on a Chinese restaurant in Kabul.",
+      "sourceLink": "https://www.nytimes.com/2024/10/28/world/middleeast/kabul-chinese-restaurant-attack-islamic-state.html",
+      "signalId": "sig_a6742367"
+    },
+    {
+      "id": "map-5",
+      "lat": 31.2931,
+      "lng": 71.8056,
+      "title": "Karachi, Pakistan",
+      "sentiment": "negative",
+      "category": "Health",
+      "description": "Worsening malnutrition rates in Somalia have reached crisis levels.",
+      "sourceLink": "https://www.aljazeera.com/middleeast/2024/10/28/summarizing-malnutrition-in-somalia",
+      "signalId": "sig_71a3e0cc"
+    },
+    {
+      "id": "map-6",
+      "lat": 3.4899,
+      "lng": 39.1727,
+      "title": "Nairobi, Kenya",
+      "sentiment": "negative",
+      "category": "Politics",
+      "description": "Uganda's opposition leader fled police raids amid disputed election results.",
+      "sourceLink": "https://www.aljazeera.com/opinions/2024/10/28/bobi-wine-tells-al-jazeera-he-escaped-police-raid-amid-uganda-elections",
+      "signalId": "sig_b24a9cbc"
+    },
+    {
+      "id": "map-7",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "title": "East Jerusalem",
+      "sentiment": "negative",
+      "category": "Conflict",
+      "description": "Israeli forces demolished UNRWA headquarters in occupied East Jerusalem.",
+      "sourceLink": "https://www.aljazeera.com/middleeast/2024/10/28/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem",
+      "signalId": "sig_62eab9a9"
+    },
+    {
+      "id": "map-8",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "New York City",
+      "sentiment": "negative",
+      "category": "Conflict",
+      "description": "Ukraine reports intensified Russian missile attacks targeting energy infrastructure.",
+      "sourceLink": "https://www.nytimes.com/2024/10/28/world/europe/ukraine-russian-missiles-energy.html",
+      "signalId": "sig_11ef6b92"
+    },
+    {
+      "id": "map-9",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "New York City",
+      "sentiment": "neutral",
+      "category": "Energy",
+      "description": "The Syrian government's consolidation of energy resources previously controlled by Kurdish forces.",
+      "sourceLink": "https://www.aljazeera.com/middleeast/2024/10/28/kurdish-led-forces-pull-out-of-camp-for-is-families-during-clashes-in-syria",
+      "signalId": "sig_b0c6eeda"
+    },
+    {
+      "id": "map-10",
+      "lat": 3.4899,
+      "lng": 39.1727,
+      "title": "Nairobi, Kenya",
+      "sentiment": "negative",
+      "category": "Politics",
+      "description": "Uganda's opposition leader Bobi Wine will not contest Uganda election results in court.",
+      "sourceLink": "https://www.aljazeera.com/opinions/2024/10/28/bobi-wine-tells-bbc-from-hiding-he-will-not-contest-uganda-election-results-in-court"
+    },
+    {
+      "id": "map-11",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "New York City",
+      "sentiment": "neutral",
+      "category": "Tech/AI",
+      "description": "Meta's Oversight Board is making history by providing policy recommendations for permanently bann...",
+      "sourceLink": "https://www.techcrunch.com/2024/10/28/meta-oversight-board-takes-up-permanent-bans-in-landmark-case/",
+      "signalId": "sig_78315b57"
+    },
+    {
+      "id": "map-12",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "New York City",
+      "sentiment": "positive",
+      "category": "Tech/AI",
+      "description": "A 'human-centric' AI startup founded by tech industry veterans has secured $480 million in funding.",
+      "sourceLink": "https://www.techcrunch.com/2024/10/28/humans-a-human-centric-ai-startup-founded-by-tech-industry-veterans-raised-480m-seed-round/",
+      "signalId": "sig_3c23bb7c"
+    },
+    {
+      "id": "map-13",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "New York City",
+      "sentiment": "neutral",
+      "category": "Other",
+      "description": "Recent observations of cows using tools challenge previous assumptions about animal cognition.",
+      "sourceLink": "https://www.bbc.com/science/2024/10/28/cow astonishes scientists with rare use of tools",
+      "signalId": "sig_ce15559d"
+    }
+  ],
   "availableDates": [
     "2026-01-07",
     "2026-01-08",
@@ -1095,7 +1247,7 @@
   },
   "globalState": {
     "isOnline": true,
-    "lastChecked": "2026-01-20T18:46:00.830Z",
+    "lastChecked": "2026-01-20T19:19:34.872Z",
     "lastError": null
   }
 }
