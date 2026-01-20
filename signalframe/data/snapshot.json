@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T04:16:11.225Z",
+  "lastUpdated": "2026-01-20T04:21:04.428Z",
   "narrative": "Geopolitical Instability: The conflict in Ukraine continues, while new tensions emerge between the US and its European allies over territorial claims and trade disputes, including threats regarding Greenland. Simultaneously, the Middle East faces ongoing instability, exemplified by disputes surrounding the Gaza \"Board of Peace\" and shifting control in Syria.\n\nEconomic Policy Impacts: The Trump administration's protectionist tariffs and trade demands create significant financial market volatility and reshape international economic strategies, impacting investor confidence and cross-border commerce.\n\nAI and Technology Advancements: Significant developments occur in AI infrastructure, applications, and security, alongside declines in related traditional industries like smartphone manufacturing, reflecting broader shifts in the technology landscape.\n\nHumanitarian Crises and Safety Failures: Recent high-profile accidents, fires, and infrastructure failures highlight gaps in emergency response and safety management across multiple regions, raising concerns about public safety and crisis preparedness.\n\nGovernance and Diplomatic Conflicts: Disputes over sovereignty, peace initiatives, and legal challenges involving international relations and domestic policies dominate diplomatic discourse, reflecting complex interactions between states and non-state actors.",
   "signals": [
     {
@@ -807,9 +807,492 @@
       }
     }
   ],
+  "deepDiveBySignalId": {
+    "sig_4b1f1c3": {
+      "signalId": "sig_4b1f1c3",
+      "generatedAt": "2026-01-19T14:30:00Z",
+      "header": {
+        "title": "Greenland Tariffs Escalate U.S.-EU Trade War",
+        "text": "President Trump has doubled down on his threat to impose tariffs on European goods, prompting the EU to vow stronger countermeasures as tensions reach a critical point.",
+        "sentiment": "negative",
+        "deltaType": "policy",
+        "category": "Geopolitical"
+      },
+      "fiveWs": {
+        "who": [
+          "President Trump",
+          "EU",
+          "European leaders"
+        ],
+        "what": "Threatening and implementing tariffs on European goods",
+        "where": "Greenland, Europe, United States",
+        "when": "January 19, 2026",
+        "why": "Partisan political strategy and personal grievances",
+        "soWhat": "Escalation of trade tensions between the US and Europe, affecting global markets and transatlantic relations."
+      },
+      "evidence": [
+        {
+          "feedId": "0",
+          "source": "BBC World",
+          "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+          "link": "https://www.nytimes.com/2026/01/19/world/europe/trump-greenland-europe-nato-alliance.html",
+          "timestamp": "2026-01-19 23:36:24 UTC",
+          "quote": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests"
+        },
+        {
+          "feedId": "1",
+          "source": "MarketWatch",
+          "title": "Stock futures slump as U.S.-Europe trade tensions ramp up over Trump’s Greenland demands",
+          "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-19 23:21:00 UTC",
+          "quote": "Wall Street braced for losses when regular trading resumes Tuesday, as U.S. stock futures fell over the holiday weekend following President Donald Trump’s latest tariff threats against Europe."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Trump's tariffs are necessary for national security",
+          "claimB": "Tariffs are detrimental to the global economy",
+          "evidenceA": [
+            {
+              "feedId": "4",
+              "source": "NY Times World",
+              "title": "Trump Links His Push for Greenland to Not Winning Nobel Peace Prize",
+              "link": "https://www.nytimes.com/2026/01/19/world/europe/trump-norway-greenland-nobel.html",
+              "timestamp": "2026-01-19 23:14:17 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "1",
+              "source": "BBC World",
+              "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+              "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+              "timestamp": "2026-01-19 23:36:24 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Market reactions to further trade measures",
+        "Diplomatic efforts to de-escalate the situation",
+        "Impact on Greenland's economy and its relationship with the US",
+        "Broader implications for NATO and transatlantic alliances"
+      ]
+    },
+    "sig_e7aa6d1f": {
+      "signalId": "sig_e7aa6d1f",
+      "generatedAt": "2026-01-19T12:00:00Z",
+      "header": {
+        "title": "Spain Train Disaster Claims Dozens",
+        "text": "A high-speed train crash in southern Spain has killed at least 40 people, prompting national mourning and investigations into safety standards.",
+        "sentiment": "very-negative",
+        "deltaType": "Incident",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Spanish citizens"
+        ],
+        "what": "A high-speed train crash that resulted in at least 40 deaths",
+        "where": "Southern Spain, near the city of Córdoba",
+        "when": "Sunday, January 18, 2026",
+        "why": "Systemic safety concerns in Spain's transport system",
+        "soWhat": "This is the deadliest transport accident in Spain in over a decade, leading to national mourning and investigations"
+      },
+      "evidence": [
+        {
+          "feedId": "1",
+          "source": "BBC World",
+          "title": "High-speed train crash in Spain kills at least 39",
+          "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-19 08:20:42 UTC",
+          "quote": "High-speed train crash in Spain kills at least 39. More than 400 passengers were on board the trains that derailed near the city of Córdoba, in Spain's worst rail crash in more than a decade."
+        },
+        {
+          "feedId": "5",
+          "source": "BBC World",
+          "title": "What we know about Spain's worst rail disaster in over a decade",
+          "link": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-19 21:00:21 UTC",
+          "quote": "What caused the train to derail remains unclear but officials say an investigation has been launched."
+        },
+        {
+          "feedId": "2",
+          "source": "NY Times World",
+          "title": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
+          "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+          "timestamp": "2026-01-19 23:11:36 UTC",
+          "quote": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40. Crews were working to retrieve bodies after two high-speed trains derailed in southern Spain. The regional authorities said 41 people were hospitalized, with a dozen of them in intensive care."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "The crash was caused by a track failure",
+          "claimB": "The crash was caused by human error",
+          "evidenceA": [
+            {
+              "feedId": "2",
+              "source": "NY Times World",
+              "title": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
+              "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+              "timestamp": "2026-01-19 23:11:36 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "5",
+              "source": "BBC World",
+              "title": "What we know about Spain's worst rail disaster in over a decade",
+              "link": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
+              "timestamp": "2026-01-19 21:00:21 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Investigation findings on the cause of the crash",
+        "Potential changes to transportation safety regulations in Spain",
+        "Impact on tourism in Spain",
+        "Similar incidents in other countries with high-speed rail systems",
+        "Broader implications for international transportation safety standards"
+      ]
+    },
+    "sig_ed1370e5": {
+      "signalId": "sig_ed1370e5",
+      "generatedAt": "2026-01-19T14:30:00Z",
+      "header": {
+        "title": "Powell Faces Supreme Court Testimony",
+        "text": "Federal Reserve Chair Jerome Powell is set to appear before the Supreme Court in a case related to the Trump administration's financial policies.",
+        "sentiment": "neutral",
+        "deltaType": "Legal",
+        "category": "Financial"
+      },
+      "fiveWs": {
+        "who": [
+          "Federal Reserve Chair Jerome Powell"
+        ],
+        "what": "Appear before the Supreme Court regarding a case involving the Trump administration's financial policies.",
+        "where": "Supreme Court",
+        "when": "2026-01-19",
+        "why": "To address legal challenges against the Fed's independence.",
+        "soWhat": "This could impact monetary policy and financial markets."
+      },
+      "evidence": [
+        {
+          "feedId": "9",
+          "source": "NY Times World",
+          "title": "Trump Links His Push for Greenland to Not Winning Nobel Peace Prize",
+          "link": "https://www.nytimes.com/2026/01/19/world/europe/trump-norway-greenland-nobel.html",
+          "timestamp": "2026-01-19 23:14:17 UTC",
+          "quote": "In a text, President Trump told Norway’s prime minister that he no longer felt obliged to “think purely of Peace” and that the U.S. needed the island for global security."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "The Supreme Court testimony will reinforce the Fed's independence.",
+          "claimB": "The testimony may lead to erosion of the Fed's autonomy.",
+          "evidenceA": [
+            {
+              "feedId": "0",
+              "source": "MarketWatch",
+              "title": "Jerome Powell will attend Supreme Court hearing on Lisa Cook’s firing",
+              "link": "https://www.marketwatch.com/story/jerome-powell-will-attend-supreme-court-hearing-on-lisa-cooks-firing-23e75828?mod=mw_rss_topstories",
+              "timestamp": "2026-01-19 19:57:00 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "1",
+              "source": "Al Jazeera",
+              "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
+              "link": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss",
+              "timestamp": "Mon, 19 Jan 2026 20:03:18 +0000 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Potential outcomes of the Supreme Court ruling on Fed independence",
+        "Market reaction to Powell's testimony",
+        "Broader implications for US financial policy"
+      ]
+    },
+    "sig_56bc415c": {
+      "signalId": "sig_56bc415c",
+      "generatedAt": "2026-01-19T15:30:00Z",
+      "header": {
+        "title": "Greenland Tariff Crisis Escalates",
+        "text": "President Trump threatens massive tariffs on European goods over Greenland, causing stock futures to plummet and prompting strong diplomatic condemnations from the EU and UK leaders.",
+        "sentiment": "negative",
+        "deltaType": "policy",
+        "category": "Geopolitical"
+      },
+      "fiveWs": {
+        "who": [
+          "US President Donald Trump",
+          "European Union leaders",
+          "UK leaders"
+        ],
+        "what": "Threat of imposing tariffs on European goods",
+        "where": "Greenland",
+        "when": "2026-01-19 to 2026-019-20",
+        "why": "Trump's geopolitical strategy involving Greenland and perceived slights, including Nobel Peace Prize snub",
+        "soWhat": "Significant escalation in US-EU relations, potential economic downturn, and strategic implications for NATO alliance"
+      },
+      "evidence": [
+        {
+          "feedId": "4",
+          "source": "BBC World",
+          "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+          "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-19 23:36:24 UTC",
+          "quote": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\""
+        },
+        {
+          "feedId": "6",
+          "source": "NY Times World",
+          "title": "Trump Is Pushing the U.S.-Europe Alliance to the Brink...Over Greenland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/norway-pm-trump-preoccupied-with-nobel-peace-prize-on-greenland-texts?traffic_source=rss",
+          "timestamp": "2026-01-20 00:18:56 UTC",
+          "quote": "As President Trump tries to coerce European leaders over Greenland..."
+        },
+        {
+          "feedId": "7",
+          "source": "BBC World",
+          "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+          "link": "https://www.aljazeera.com/news/2026/1/19/trump-asks-putin-to-join-gaza-board-of-peace-even-as-ukraine-war-rages?traffic_source=rss",
+          "timestamp": "2026-01-19 23:36:24 UTC",
+          "quote": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\""
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Trump's tariffs on European goods are solely for strategic reasons related to Greenland",
+          "claimB": "The tariffs are a response to Trump's perceived slights, including the Nobel Peace Prize snub",
+          "evidenceA": [
+            {
+              "feedId": "4",
+              "source": "BBC World",
+              "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+              "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+              "timestamp": "2026-01-19 23:36:24 UTC"
+            },
+            {
+              "feedId": "6",
+              "source": "Al Jazeera",
+              "title": "Norway PM: Trump ‘preoccupied’ with Nobel Peace Prize on Greenland texts",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/norway-pm-trump-preoccupied-with-nobel-peace-prize-on-greenland-texts?traffic_source=rss",
+              "timestamp": "Mon, 19 Jan 2026 20:52:05 +0000 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "5",
+              "source": "NY Times World",
+              "title": "Trump Links His Push for Greenland to Not Winning Nobel Peace Prize",
+              "link": "https://www.nytimes.com/2026/01/19/world/europe/trump-norway-greenland-nobel.html",
+              "timestamp": "2026-01-19 23:14:17 UTC"
+            },
+            {
+              "feedId": "6",
+              "source": "Al Jazeera",
+              "title": "Norway PM: Trump ‘preoccupied’ with Nobel Peace Prize on Greenland texts",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/norway-pm-trump-preoccupied-with-nobel-peace-prize-on-greenland-texts?traffic_source=rss",
+              "timestamp": "Mon, 19 Jan 2026 20:52:05 +0000 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Market fluctuations and potential trade war escalation",
+        "Diplomatic responses from NATO allies",
+        "Broader implications for US-EU relations and global economic stability",
+        "Internal EU policy debates on tariffs and trade retaliation",
+        "Reactions from Greenland and other territories",
+        "Potential for direct US-EU confrontation or summit meetings"
+      ]
+    },
+    "sig_50b66196": {
+      "signalId": "sig_50b66196",
+      "generatedAt": "2026-01-19T19:00:00Z",
+      "header": {
+        "title": "Spain Train Disaster Deepens Political Crisis",
+        "text": "A deadly high-speed train collision has killed at least 40 people, prompting Spain's PM to announce three days of national mourning and an immediate investigation into the cause of the derailment.",
+        "sentiment": "negative",
+        "deltaType": "incident",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Spanish government",
+          "Prime Minister Pedro Sanchez"
+        ],
+        "what": "A deadly high-speed train collision",
+        "where": "Southern Spain",
+        "when": "January 19, 2026",
+        "why": "An immediate investigation is being conducted to determine the cause.",
+        "soWhat": "This is one of Europe's worst rail disasters in over a decade, leading to national mourning and significant political implications."
+      },
+      "evidence": [
+        {
+          "feedId": "6",
+          "source": "NY Times World",
+          "title": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
+          "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+          "timestamp": "2026-01-19 23:11:36 UTC",
+          "quote": "Crews were working to retrieve bodies after two high-speed trains derailed in southern Spain. The regional authorities said 41 people were hospitalized, with a dozen of them in intensive care."
+        },
+        {
+          "feedId": "2",
+          "source": "BBC World",
+          "title": "High-speed train crash in Spain kills at least 39",
+          "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-19 08:20:42 UTC",
+          "quote": "More than 400 passengers were on board the trains that derailed near the city of Córdoba, in Spain's worst rail crash in more than a decade."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "The derailment was caused by a break in the track.",
+          "claimB": "The derailment was caused by a technical failure.",
+          "evidenceA": [
+            {
+              "feedId": "6",
+              "source": "NY Times World",
+              "title": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
+              "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+              "timestamp": "2026-01-19 23:11:36 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "6",
+              "source": "NY Times World",
+              "title": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
+              "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+              "timestamp": "2026-01-19 23:11:36 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Further updates on the investigation findings.",
+        "Political fallout and policy changes in response to the disaster.",
+        "Similar incidents in other countries' rail systems.",
+        "Humanitarian aid efforts and long-term recovery plans."
+      ]
+    },
+    "sig_b9568183": {
+      "signalId": "sig_b9568183",
+      "generatedAt": "2026-01-19T15:14:00Z",
+      "header": {
+        "title": "Greenland Tariffs Escalate U.S.-EU Trade War",
+        "text": "U.S. President Trump threatens tariffs on European goods, prompting EU leaders to vow stronger defense, while UK Prime Minister and opposition figure condemn the move as politically motivated.",
+        "sentiment": "neutral",
+        "deltaType": "policy",
+        "category": "Geopolitical"
+      },
+      "fiveWs": {
+        "who": [
+          "U.S. President Trump",
+          "EU leaders",
+          "UK Prime Minister",
+          "opposition figure"
+        ],
+        "what": "Threatening tariffs on European goods",
+        "where": "Greenland",
+        "when": "2026-01-19",
+        "why": "Trump links the move to not winning Nobel Peace Prize and global security needs",
+        "soWhat": "Escalation of trade disputes between U.S. and EU, potential economic impact and strain on U.S.-EU alliance"
+      },
+      "evidence": [
+        {
+          "feedId": "1",
+          "source": "NY Times World",
+          "title": "Trump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland",
+          "link": "https://www.nytimes.com/2026/01/19/world/europe/trump-norway-greenland-nobel.html",
+          "timestamp": "2026-01-20 00:18:56 UTC",
+          "quote": "As President Trump tries to coerce European leaders over Greenland, they are pondering the unthinkable: Is an 80-year-old alliance doomed?"
+        },
+        {
+          "feedId": "2",
+          "source": "NY Times World",
+          "title": "Trump Links His Push for Greenland to Not Winning Nobel Peace Prize",
+          "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-19 23:14:17 UTC",
+          "quote": "In a text, President Trump told Norway’s prime minister that he no longer felt obliged to “think purely of Peace” and that the U.S. needed the island for global security."
+        },
+        {
+          "feedId": "3",
+          "source": "BBC World",
+          "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/norway-pm-trump-preoccupied-with-nobel-peace-prize-on-greenland-texts?traffic_source=rss",
+          "timestamp": "2026-01-19 23:36:24 UTC",
+          "quote": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\"."
+        },
+        {
+          "feedId": "7",
+          "source": "Al Jazeera",
+          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss",
+          "timestamp": "Mon, 19 Jan 2026 13:44:56 +0000 UTC",
+          "quote": "Keir Starmer said Donald Trump’s threats to impose tariffs on allies over Greenland are ‘completely wrong’."
+        },
+        {
+          "feedId": "9",
+          "source": "MarketWatch",
+          "title": "Stock futures slump as U.S.-Europe trade tensions ramp up over Trump’s Greenland demands",
+          "link": "https://www.marketwatch.com/story/stock-futures-slump-as-u-s-europe-trade-tensions-ramp-up-over-trumps-greenland-demands-2fdf8af8?mod=mw_rss_topstories",
+          "timestamp": "2026-01-20 01:35:00 UTC",
+          "quote": "Wall Street braced for losses when regular trading resumes Tuesday, as U.S. stock futures fell over the holiday weekend following President Donald Trump’s latest tariff threats against Europe."
+        },
+        {
+          "feedId": "10",
+          "source": "MarketWatch",
+          "title": "Trump’s latest E.U. tariff threats may spur more investors away from the ‘buy America’ trade, analysts say",
+          "link": "https://www.marketwatch.com/story/trumps-latest-e-u-tariff-threats-may-spur-more-investors-away-from-the-buy-america-trade-analysts-say-6e6cbdbc?mod=mw_rss_topstories",
+          "timestamp": "2026-01-19 17:23:00 UTC",
+          "quote": "Some are watching for a “weaponization of capital,” and moves into some Europe stocks — and away from the dollar — amid fresh U.S. tariffs threats against Europe."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Trump’s tariff threats are justified for national security reasons",
+          "claimB": "Trump’s tariff threats are politically motivated and undermine the U.S.-EU alliance",
+          "evidenceA": [
+            {
+              "feedId": "2",
+              "source": "NY Times World",
+              "title": "Trump Links His Push for Greenland to Not Winning Nobel Peace Prize",
+              "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+              "timestamp": "2026-01-19 23:14:17 UTC",
+              "quote": "In a text, President Trump told Norway’s prime minister that he no longer felt obliged to “think purely of Peace” and that the U.S. needed the island for global security."
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "7",
+              "source": "Al Jazeera",
+              "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss",
+              "timestamp": "Mon, 19 Jan 2026 13:44:56 +0000 UTC",
+              "quote": "Keir Starmer said Donald Trump’s threats to impose tariffs on allies over Greenland are ‘completely wrong’."
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Further developments on the implementation of tariffs",
+        "Reactions from other NATO allies to the U.S. stance",
+        "Market movements in European stocks and currencies",
+        "Diplomatic efforts to de-escalate the trade conflict",
+        "Broader implications for global trade policies"
+      ]
+    }
+  },
   "globalState": {
     "isOnline": true,
-    "lastChecked": "2026-01-20T04:04:56.656Z",
+    "lastChecked": "2026-01-20T04:20:59.999Z",
     "lastError": null
   }
 }
