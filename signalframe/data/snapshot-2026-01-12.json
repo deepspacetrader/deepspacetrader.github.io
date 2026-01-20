@@ -1,347 +1,144 @@
 {
-  "lastUpdated": "2026-01-20T17:04:36.178Z",
-  "narrative": "Humanitarian Crises and Disasters: Multiple severe disasters (train crash in Spain, Chile wildfires, Karachi fire) and a major terrorist attack (Kabul restaurant) are causing significant loss of life and displacement. Somalia faces a severe malnutrition crisis. These events are assessed as extremely negative or very negative due to the scale of suffering.\n\nGeopolitical Instability and Conflict: Escalating tensions include Ukraine (Russian strikes, Zelensky's warnings), Afghanistan (security concerns post-IS attack), Syria (Kurdish forces pushed out, government gains control), and the persistent Israel-Palestine conflict (UNRWA building demolitions). Trump's rhetoric regarding Greenland and potential tariffs adds another layer of international friction. This theme is assessed as very negative or extremely negative due to the serious conflicts, security fears, and instability.\n\nClimate Change and Environmental Failures: Wildfires in Chile and Karachi highlight environmental disasters linked to climate change, while the Karachi fire also exposed failures in urban governance and rescue capacity. These incidents are assessed as extremely negative or very negative due to the devastating impact on populations and infrastructure.\n\nEconomic Pressures and Market Volatility: Market anxiety is rising due to Trump's tariff threats impacting trade (Sell America trade, European concerns). Bond yields in Japan are at record highs, signaling economic stress. Natural gas prices have surged due to cold weather. These economic developments are assessed as negative due to the potential for widespread financial disruption and hardship.\n\nGovernance Failures and Emerging Concerns: Issues include questions surrounding Uganda's election process, concerns over political interference in judiciary matters (Bobi Wine case), failures in Australia's response to the Bondi shooting, and criticism of US foreign policy by religious leaders. Debates around digital citizenship (Bangladesh) and failures of global justice institutions are also emerging. These developments are assessed as somewhat-negative or neutral, reflecting concerns about stability, accountability, and systemic issues without full-blown crisis.",
+  "lastUpdated": "2026-01-20T18:47:57.901Z",
+  "narrative": "Geopolitical Instability: Persistent conflicts in Sudan, Iran, and Syria; heightened tensions involving BRICS exercises and US warnings; simmering unrest in Venezuela regarding Cuba; military actions in occupied territories; and strong rhetoric from Iran warning of retaliation.\n\nAI and Tech Regulation: Concerns over AI accuracy in sensitive areas like healthcare; temporary bans on AI services for generating harmful content; advancements in AI integration for commerce and email management; expansion of drone delivery services; and ongoing debates about AI ethics and government oversight.\n\nEconomic Uncertainty: Widespread mortgage dilemmas and personal financial anxieties; forecasts of a new commodities supercycle; discussions around retirement savings and personal finance management; and business strategies involving stock options and store closures linked to market valuation targets.\n\nEnvironmental Crises: Record-breaking ocean temperatures highlighting climate change impacts; warnings of potential US retaliation impacting Arctic cooperation; and localized disasters including bushfires and a gas explosion.\n\nSocial Unrest: Escalating protests in Iran and the US over economic grievances and government actions; militarized responses by authorities; and documented cases of severe humanitarian crises, including alleged mistreatment by immigration authorities leading to death.",
   "signals": [
     {
-      "id": "sig_ec2964d3",
-      "title": "Tariff Threats Escalate Global Economic Tensions",
-      "text": "President Trump's aggressive tariff policies against European allies have intensified market volatility and sparked concerns about a new Cold War-style economic confrontation, prompting retaliatory measures from the EU.",
-      "sentiment": "neutral",
-      "category": "Geopolitical",
-      "deltaType": "policy",
-      "importance": 95,
-      "novelty": 90,
-      "explain": "Escalation of trade conflict with potential global economic implications",
-      "shareText": "Global markets react to Trump's tariff threats against European allies",
-      "evidence": [
-        {
-          "feedId": "0",
-          "source": "NY Times World",
-          "title": "Trump Heckles Europe Before Heading to Davos",
-          "link": "https://www.nytimes.com/2026/01/20/world/europe/davos-trump-europe.html",
-          "timestamp": "2026-01-20 16:08:53 UTC",
-          "quote": "As European leaders try to engage with the American president over Greenland and the future of Ukraine, he is mocking them as weak."
-        },
-        {
-          "feedId": "1",
-          "source": "MarketWatch",
-          "title": "The ‘Sell America’ trade is making a comeback on Tuesday",
-          "link": "https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=mw_rss_topstories",
-          "timestamp": "2026-01-20 16:04:00 UTC",
-          "quote": "Talk of the 'Sell America' trade is making a big comeback... as President Donald Trump's latest tariff threats raise the possibility of a rerun of last April's violent market spasms."
-        },
-        {
-          "feedId": "18",
-          "source": "MarketWatch",
-          "title": "Natural-gas prices soar as temperatures drop",
-          "link": "https://www.marketwatch.com/story/natural-gas-futures-are-jumping-20-it-will-be-toughest-test-in-a-decade-one-analyst-says-48d023bf?mod=mw_rss_topstories",
-          "timestamp": "2026-01-20 15:05:00 UTC",
-          "quote": "Natural-gas futures skyrocketed... as temperatures drop... It could be the toughest test for the markets in a decade."
-        },
-        {
-          "feedId": "22",
-          "source": "MarketWatch",
-          "title": "How Greenland could turn into a Big Tech problem",
-          "link": "https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/",
-          "timestamp": "2026-01-20 14:38:00 UTC",
-          "quote": "Strategists like Morgan Stanley’s chief U.S. equity strategist say fallout from a brewing U.S.-Europe spat over Greenland could be bad for tech."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_2a31223",
-      "title": "Spain Train Disaster Exposes Critical Infrastructure Failures",
-      "text": "Spain's deadliest train crash in a decade has killed at least 41 people, raising urgent questions about rail safety protocols and infrastructure maintenance following the derailment near Córdoba.",
-      "sentiment": "very-negative",
-      "category": "Conflicts",
+      "id": "sig_deef8a94",
+      "title": "AI Health Initiatives Accelerate",
+      "text": "OpenAI and Anthropic announce major health-focused AI tools, integrating health records and diagnostic capabilities, signaling a significant shift in AI healthcare applications.",
+      "sentiment": "interesting",
+      "category": "Tech/AI",
       "importance": 90,
-      "novelty": 90,
-      "explain": "Fatal transportation accident revealing systemic safety issues",
-      "shareText": "Spain investigates deadly train crash amid rail safety fears",
-      "evidence": [
-        {
-          "feedId": "2",
-          "source": "NY Times World",
-          "title": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
-          "link": "https://www.marketwatch.com/story/why-alphabet-and-meta-investors-shouldnt-sweat-chatgpts-ad-launch-for-now-e7c7888e?mod=mw_rss_topstories",
-          "timestamp": "2026-01-20 15:57:40 UTC",
-          "quote": "Officials on Tuesday were struggling to identify bodies from the crash near the southern city of Córdoba, which killed at least 41 people."
-        },
-        {
-          "feedId": "32",
-          "source": "BBC World",
-          "title": "France makes first interception targeting small boat crossings to UK",
-          "link": "https://www.bbc.com/news/articles/ceqz1lzdxw1o?at_medium=RSS&at_campaign=rss",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "The operation follows a change of tactics agreed amid growing pressure from the UK government to step up interventions."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_71a3e0cc",
-      "title": "Somalia Humanitarian Crisis Intensifies",
-      "text": "Worsening malnutrition rates in Somalia have reached crisis levels, with church leaders now questioning official reports of abductions amid growing concerns about the region's stability.",
-      "sentiment": "negative",
-      "category": "Financial",
-      "importance": 85,
-      "novelty": 70,
-      "explain": "Escalating humanitarian emergency in conflict-affected region",
-      "shareText": "Somalia's worsening malnutrition crisis draws international concern",
+      "novelty": 95,
+      "explain": "Major AI companies are rapidly developing specialized healthcare AI tools, marking a significant pivot from general AI to domain-specific applications.",
+      "shareText": "OpenAI and Anthropic are launching major healthcare AI tools. This represents a significant shift in AI applications toward healthcare.",
       "evidence": [
         {
           "feedId": "14",
-          "source": "NY Times World",
-          "title": "Church Leaders Say Over 160 Were Kidnapped in Nigeria",
-          "link": "https://www.bbc.com/news/articles/c20ge5qwdl2o?at_medium=RSS&at_campaign=rss",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "Christian groups said gunmen abducted congregants during Sunday services at three churches, but security and government officials dismissed the reports as fear-mongering."
-        },
-        {
-          "feedId": "26",
-          "source": "NY Times World",
-          "title": "For Syria’s Government, Kurdish Deal Is a Big Win",
-          "link": "https://www.bbc.com/news/articles/cj0n127y74go?at_medium=RSS&at_campaign=rss",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "As the government moves to assert control over areas under Kurdish rule, it will be the latest test of President Ahmed al-Sharaa’s pledge to form an inclusive administration"
+          "source": "TechCrunch",
+          "title": "Anthropic announces Claude for Healthcare following OpenAI's ChatGPT Health reveal",
+          "link": "https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/",
+          "timestamp": "2026-01-12 22:27:50 UTC",
+          "quote": "Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product."
         }
       ],
       "contradictions": []
     },
     {
-      "id": "sig_3c23bb7c",
-      "title": "Humans& AI Secures Major Funding Round",
-      "text": "A 'human-centric' AI startup founded by tech industry veterans has secured $480 million in funding, signaling growing investor confidence in AI solutions focused on human empowerment.",
-      "sentiment": "positive",
+      "id": "sig_5326a9d3",
+      "title": "US-Iran Tensions Spike Oil Prices",
+      "text": "Heightened geopolitical tensions between the US and Iran have triggered concerns about oil supply disruptions, potentially pushing global oil prices higher.",
+      "sentiment": "somewhat-negative",
+      "category": "Financial",
+      "deltaType": "market",
+      "importance": 85,
+      "novelty": 70,
+      "explain": "Geopolitical instability in the Middle East continues to impact global energy markets, with oil prices potentially facing upward pressure.",
+      "shareText": "US-Iran tensions are driving up oil prices. This could have significant implications for global markets.",
+      "evidence": [
+        {
+          "feedId": "0",
+          "source": "MarketWatch",
+          "title": "Why oil prices could rise as U.S.-Iran tensions swell",
+          "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+          "timestamp": "2026-01-13 01:00:00 UTC",
+          "quote": "The Strait of Hormuz, a critical chokepoint for global oil markets, is back in focus for oil traders"
+        }
+      ],
+      "contradictions": []
+    },
+    {
+      "id": "sig_6e9c9dfb",
+      "title": "NYC Healthcare Workers Strike",
+      "text": "Thousands of New York City nurses went on strike, demanding improved contract terms amid ongoing negotiations, highlighting labor tensions in the healthcare sector.",
+      "sentiment": "neutral",
+      "category": "Conflicts",
+      "importance": 75,
+      "novelty": 60,
+      "explain": "A significant labor action by healthcare workers in a major US city, reflecting broader workforce concerns in the sector.",
+      "shareText": "New York City nurses are on strike over contract negotiations. This reflects growing labor tensions in the healthcare industry.",
+      "evidence": [
+        {
+          "feedId": "0",
+          "source": "Al Jazeera",
+          "title": "Thousands of nurses go on strike in New York City",
+          "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+          "timestamp": "2026-01-13 01:00:00 UTC",
+          "quote": "Nurses were joined by elected leaders, including the city’s new mayor, Zohran Mamdani, as contract negotiations failed."
+        }
+      ],
+      "contradictions": []
+    },
+    {
+      "id": "sig_7d37898d",
+      "title": "Meta AI Layoffs Signal Industry Shift",
+      "text": "Meta announced significant layoffs within its metaverse division as the company pivots resources toward AI development, reflecting broader industry realignments.",
+      "sentiment": "neutral",
       "category": "Tech/AI",
       "importance": 80,
       "novelty": 80,
-      "explain": "Significant investment in human-centric AI approaches",
-      "shareText": "New AI startup raises $480M with vision of human-centric technology",
+      "explain": "Major tech companies are restructuring their workforce to prioritize AI development over other initiatives, signaling a significant industry realignment.",
+      "shareText": "Meta is laying off metaverse employees to focus on AI. This reflects a broader shift in the tech industry.",
       "evidence": [
         {
-          "feedId": "3",
-          "source": "TechCrunch",
-          "title": "Humans& a 'human-centric' AI startup raised $480M seed round",
-          "link": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "Humans&, a startup that believes AI should empower people, not replace them, has reportedly raised a $480 million seed round at a $4.48 billion valuation."
+          "feedId": "0",
+          "source": "The Verge",
+          "title": "Meta plans to lay off hundreds of metaverse employees this week",
+          "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+          "timestamp": "2026-01-13 01:00:00 UTC",
+          "quote": "Meta's Reality Labs team is expected to lose around 10 percent of its staff, with layoffs concentrated on the division's metaverse employees"
         }
       ],
       "contradictions": []
     },
     {
-      "id": "sig_11ef6b92",
-      "title": "Russia-Ukraine Energy Strikes Escalate",
-      "text": "Ukraine reports intensified Russian missile attacks targeting energy infrastructure, with officials suggesting a strategy to deliberately freeze Kiev amid harsh winter conditions.",
-      "sentiment": "negative",
-      "category": "Conflicts",
-      "importance": 85,
-      "novelty": 85,
-      "explain": "Escalation of energy infrastructure attacks in Ukraine",
-      "shareText": "Ukraine braces for energy crisis amid intensified Russian strikes",
-      "evidence": [
-        {
-          "feedId": "36",
-          "source": "BBC World",
-          "title": "Russian strikes again leave half of Kyiv with no heating",
-          "link": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "President Zelensky says Russia has started using 'far more' ballistic missiles in its attacks on Ukraine."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_a6742367",
-      "title": "Afghanistan Drone Attack Targeting Chinese Citizens",
-      "text": "Islamic State claimed responsibility for a deadly drone attack on a Chinese restaurant in Kabul, escalating tensions in the region and raising diplomatic concerns.",
-      "sentiment": "negative",
-      "category": "Conflicts",
-      "importance": 80,
-      "novelty": 80,
-      "explain": "Targeted attack on diplomatic interests in Afghanistan",
-      "shareText": "Islamic State claims deadly Kabul attack on Chinese citizens",
-      "evidence": [
-        {
-          "feedId": "24",
-          "source": "Al Jazeera",
-          "title": "ISIL claims Kabul attack on Chinese restaurant that killed seven people",
-          "link": "https://techcrunch.com/2026/01/20/netflix-is-rolling-out-a-live-voting-feature/",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "Group links attack to China’s 'crimes' against Uighurs. Beijing urges Taliban government to protect its nationals."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_b0c6eeda",
-      "title": "Syria's Energy Sector Under Strain",
-      "text": "The Syrian government's consolidation of energy resources previously controlled by Kurdish forces has created complex challenges for the country's oil sector recovery.",
-      "sentiment": "neutral",
-      "category": "Geopolitical",
-      "importance": 75,
-      "novelty": 75,
-      "explain": "Shift in control of Syria's energy resources creates political challenges",
-      "shareText": "Syria's oil sector faces hurdles as government consolidates control",
-      "evidence": [
-        {
-          "feedId": "26",
-          "source": "NY Times World",
-          "title": "For Syria’s Government, Kurdish Deal Is a Big Win",
-          "link": "https://www.bbc.com/news/articles/cj0n127y74go?at_medium=RSS&at_campaign=rss",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "As the government moves to assert control over areas under Kurdish rule, it will be the latest test of President Ahmed al-Sharaa’s pledge to form an inclusive administration"
-        },
-        {
-          "feedId": "37",
-          "source": "Al Jazeera",
-          "title": "How the Syrian army pushed Kurdish-led forces out of oil-rich territory",
-          "link": "https://www.nytimes.com/2026/01/20/world/middleeast/syria-fighting-kurdish-deal.html",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "In a lightning-fast offensive, the Syrian government has taken oil-rich territory long held by the Kurdish-led SDF."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_b24a9cbc",
-      "title": "Uganda Election Crisis Deepens",
-      "text": "Uganda's opposition leader has fled police raids amid disputed election results, highlighting ongoing governance challenges and potential constitutional tensions.",
-      "sentiment": "negative",
-      "category": "Conflicts",
-      "importance": 70,
-      "novelty": 70,
-      "explain": "Political crisis following disputed election results",
-      "shareText": "Uganda's election turmoil continues amid constitutional tensions",
-      "evidence": [
-        {
-          "feedId": "39",
-          "source": "Al Jazeera",
-          "title": "Bobi Wine tells Al Jazeera he escaped police raid amid Uganda elections",
-          "link": "https://www.bbc.com/news/articles/cj0n12q5v42o?at_medium=RSS&at_campaign=rss",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "Uganda’s opposition leader Bobi Wine says he escaped a raid on his home after a disputed presidential election."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_62eab9a9",
-      "title": "UNRWA Demolitions Escalate in East Jerusalem",
-      "text": "Israeli forces demolished UNRWA headquarters in occupied East Jerusalem, raising serious concerns about humanitarian aid access in the region.",
-      "sentiment": "negative",
-      "category": "Conflicts",
-      "importance": 85,
-      "novelty": 85,
-      "explain": "Severe blow to humanitarian infrastructure in occupied territory",
-      "shareText": "Israeli forces demolish UNRWA headquarters in occupied East Jerusalem",
-      "evidence": [
-        {
-          "feedId": "40",
-          "source": "Al Jazeera",
-          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/20/who-hacked-iranian-state-tv?traffic_source=rss",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "Israeli bulldozers demolished UNRWA’s headquarters in occupied East Jerusalem."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_16eed30d",
-      "title": "Market Volatility Persists Amid Geopolitical Uncertainty",
-      "text": "Financial markets continue to react to geopolitical tensions, with natural gas prices surging and concerns growing about potential economic fallout from trade disputes.",
-      "sentiment": "negative",
-      "category": "Financial",
-      "deltaType": "market",
-      "importance": 80,
-      "novelty": 80,
-      "explain": "Financial markets reacting to geopolitical and energy uncertainties",
-      "shareText": "Natural gas prices spike amid market uncertainty over trade disputes",
-      "evidence": [
-        {
-          "feedId": "18",
-          "source": "MarketWatch",
-          "title": "Natural-gas prices soar as temperatures drop",
-          "link": "https://www.marketwatch.com/story/natural-gas-futures-are-jumping-20-it-will-be-toughest-test-in-a-decade-one-analyst-says-48d023bf?mod=mw_rss_topstories",
-          "timestamp": "2026-01-20 15:05:00 UTC",
-          "quote": "Natural-gas futures skyrocketed... as temperatures drop... It could be the toughest test for the markets in a decade."
-        },
-        {
-          "feedId": "22",
-          "source": "MarketWatch",
-          "title": "How Greenland could turn into a Big Tech problem",
-          "link": "https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/",
-          "timestamp": "2026-01-20 14:38:00 UTC",
-          "quote": "Strategists like Morgan Stanley’s chief U.S. equity strategist say fallout from a brewing U.S.-Europe spat over Greenland could be bad for tech."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_ce15559d",
-      "title": "Cognitive Abilities of Cattle Reconsidered",
-      "text": "Recent observations of cows using tools challenge previous assumptions about animal cognition, suggesting potential for greater intelligence in livestock species.",
-      "sentiment": "neutral",
-      "category": "Other",
-      "importance": 65,
-      "novelty": 65,
-      "explain": "Revised understanding of cattle cognition based on observed tool use",
-      "shareText": "Cows may be smarter than we thought: New study reveals surprising tool use",
-      "evidence": [
-        {
-          "feedId": "5",
-          "source": "BBC Science",
-          "title": "Cow astonishes scientists with rare use of tools",
-          "link": "https://techcrunch.com/2026/01/20/eat-app-wants-a-bite-of-indias-restaurant-reservation-business-with-an-aquistion-and-swiggy-partnership/",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "The discovery suggests cows may have far greater cognitive abilities than previously assumed."
-        }
-      ],
-      "contradictions": []
-    },
-    {
-      "id": "sig_78315b57",
-      "title": "Meta Faces Landmark AI Governance Case",
-      "text": "Meta's Oversight Board is making history by providing policy recommendations for permanently banned accounts, setting a precedent for social media governance.",
+      "id": "sig_617a4035",
+      "title": "AI Regulation Intensifies",
+      "text": "The UK is introducing new legislation to criminalize non-consensual deepfake images, following similar actions by other governments in response to AI advancements.",
       "sentiment": "neutral",
       "category": "Tech/AI",
       "deltaType": "policy",
       "importance": 70,
-      "novelty": 70,
-      "explain": "Innovative approach to digital identity and governance through permanent bans",
-      "shareText": "Meta's Oversight Board tackles permanent ban policy for first time",
+      "novelty": 85,
+      "explain": "Governments are accelerating legislative responses to the societal impacts of advanced AI technologies, particularly concerning deepfakes.",
+      "shareText": "UK introduces new AI regulations targeting deepfake content. This follows similar moves by other governments.",
       "evidence": [
         {
-          "feedId": "9",
+          "feedId": "0",
+          "source": "Al Jazeera",
+          "title": "UK pushes up a law criminalizing deepfake nudes in response to Grok",
+          "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+          "timestamp": "2026-01-13 01:00:00 UTC",
+          "quote": "The UK is bringing a law into force that makes creating nonconsensual intimate deepfake images... a criminal offense"
+        }
+      ],
+      "contradictions": []
+    },
+    {
+      "id": "sig_73c80770",
+      "title": "EPA Policy Shifts Health Analysis",
+      "text": "The Trump administration's EPA plans to stop factoring human health into cost-benefit analyses for air pollution controls, potentially weakening environmental protections.",
+      "sentiment": "somewhat-negative",
+      "category": "Other",
+      "deltaType": "policy",
+      "importance": 85,
+      "novelty": 75,
+      "explain": "Significant changes to EPA's methodology for assessing environmental regulations could impact public health protections.",
+      "shareText": "EPA plans to ignore health impacts in environmental analyses. This represents a major policy shift.",
+      "evidence": [
+        {
+          "feedId": "0",
           "source": "TechCrunch",
-          "title": "Meta’s Oversight Board takes up permanent bans in landmark case",
-          "link": "https://www.marketwatch.com/story/im-moving-cross-country-and-want-to-fly-my-dog-on-a-private-jet-is-this-a-waste-of-money-990ea8bd?mod=mw_rss_topstories",
-          "timestamp": "2026-01-20 16:00:00 UTC",
-          "quote": "For the first time, Meta's Oversight Board is looking for specific policy recommendations around disabled accounts."
+          "title": "Trump's EPA plans to ignore health effects of air pollution",
+          "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+          "timestamp": "2026-01-13 01:00:00 UTC",
+          "quote": "The Trump administration plans to stop assigning value to human life when analyzing the costs and benefits of air pollution controls"
         }
       ],
       "contradictions": []
     }
   ],
-  "insights": [
-    {
-      "text": "Observation | Strategic implication",
-      "sentiment": "neutral",
-      "evidence": [
-        {
-          "feedId": "X",
-          "source": "Source",
-          "title": "Title",
-          "timestamp": "Timestamp",
-          "quote": "Quote"
-        }
-      ],
-      "signalId": "sig_abc123"
-    }
-  ],
+  "insights": [],
   "mapPoints": [],
   "availableDates": [
     "2026-01-07",
@@ -363,36 +160,36 @@
       "countryA": "USA",
       "countryB": "Iran",
       "topic": "Threats and tensions between the two nations",
-      "status": "Tensions remain very high with widespread antigovernment protests and government crackdowns, including reports of mass arrests and lethal force. Geoeconomic confrontation is seen as the world's top threat, and the situation could escalate further. Additionally, Iran is under an internet blackout following the protests.",
-      "sentiment": "very-negative",
-      "lastUpdate": "2026-01-20T16:20:40.590Z"
+      "status": "No data for this date.",
+      "sentiment": "neutral",
+      "lastUpdate": "2026-01-20T18:46:31.768Z"
     },
     {
       "id": "uu21ptlrn",
       "countryA": "Canada",
       "countryB": "USA",
       "topic": "Trade tariffs",
-      "status": "No new developments found in current scan. The relationship remains stable with scheduled discussions on economic issues.",
+      "status": "No data for this date.",
       "sentiment": "neutral",
-      "lastUpdate": "2026-01-20T16:20:40.590Z"
+      "lastUpdate": "2026-01-20T18:46:31.768Z"
     },
     {
       "id": "sqkoq1auy",
       "countryA": "USA",
       "countryB": "China",
       "topic": "AI supremacy race",
-      "status": "The AI supremacy race continues with both nations investing heavily in AI technology. Recent developments include Google's Gemini integrating user data for AI personalization, and ongoing trade tensions. The trade war remains tense, but no direct escalation in AI-related conflicts is reported.",
-      "sentiment": "somewhat-negative",
-      "lastUpdate": "2026-01-20T16:20:40.590Z"
+      "status": "No data for this date.",
+      "sentiment": "neutral",
+      "lastUpdate": "2026-01-20T18:46:31.768Z"
     },
     {
       "id": "js1346v09",
       "countryA": "USA",
       "countryB": "China",
       "topic": "Robotics",
-      "status": "No specific developments in robotics reported beyond the historical trade war context. China is involved in trade tensions, but no updates on the robotics sector.",
+      "status": "No data for this date.",
       "sentiment": "neutral",
-      "lastUpdate": "2026-01-20T16:20:40.590Z"
+      "lastUpdate": "2026-01-20T18:46:31.768Z"
     }
   ],
   "bigPicture": {
@@ -1089,7 +886,7 @@
   },
   "globalState": {
     "isOnline": true,
-    "lastChecked": "2026-01-20T17:02:10.048Z",
+    "lastChecked": "2026-01-20T18:46:00.830Z",
     "lastError": null
   }
 }
