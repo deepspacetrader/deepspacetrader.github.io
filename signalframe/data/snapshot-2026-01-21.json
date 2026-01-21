@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T20:23:51.195Z",
+  "lastUpdated": "2026-01-21T20:41:06.258Z",
   "narrative": "Economic Shifts and Market Dynamics somewhat-negative. Global markets exhibit mixed reactions to political rhetoric, particularly Trump’s comments on Greenland. Investment trends show a shift from tech growth stocks to tangible assets like gold, while corporate strategies involve AI integration and acquisitions, alongside challenges in revenue forecasting. Tax reforms under the current administration are reshaping financial planning.\n\nGeopolitical Tensions and Strategic Maneuvers very-negative. Escalating international conflicts, including persistent crises in the Middle East, and high-stakes diplomacy surrounding Trump’s “Board of Peace” initiative involving Greenland’s strategic value, underscore deep geopolitical divisions. Authoritarian governance and interventionist policies, such as actions in Venezuela, further strain international relations.\n\nClimate Change and Environmental Security very-negative. The restart of Japan’s largest nuclear plant near Fukushima highlights the ongoing tension between energy needs and disaster preparedness. Simultaneously, the UN’s condemnation of Israel’s actions and broader concerns over climate-induced instability underscore the pervasive threat to global security and stability.\n\nAI Revolution and Technological Advancements interesting. AI’s expansion is evident across sectors, from healthcare diagnostics to content creation and generative tools in Adobe and YouTube. Innovations include AI-driven financial tools, personalized media, and hardware developments, signaling transformative changes in technology and user experiences.\n\nSocial Unrest and Political Dynamics somewhat-negative. Rising global violence, including mass abductions in Nigeria and deadly accidents in Spain, reflects underlying social tensions. Debates over trans rights in the UK NHS and legal challenges involving political leaders highlight deep societal divisions and political instability in various regions.",
   "signals": [
     {
@@ -1906,11 +1906,266 @@
         "Broader economic indicators affecting investor sentiment in the financial sector.",
         "Potential regulatory responses to AI in healthcare information services."
       ]
+    },
+    "sig_86c47804": {
+      "signalId": "sig_86c47804",
+      "generatedAt": "2026-01-21T20:28:45.160Z",
+      "header": {
+        "title": "Greenland Becomes Geopolitical Flashpoint",
+        "text": "Trump's proposed 'Board of Peace' includes Greenland, sparking international concern over U.S. intentions and potential conflicts with NATO allies.",
+        "sentiment": "neutral",
+        "deltaType": "policy",
+        "category": "Geopolitical"
+      },
+      "fiveWs": {
+        "who": [
+          "U.S. President Donald Trump",
+          "Trump's administration"
+        ],
+        "what": "Proposed inclusion of Greenland in Trump's 'Board of Peace' and related comments about U.S. 'ownership' of Greenland.",
+        "where": "Greenland, Denmark (as part of the Kingdom of Denmark)",
+        "when": "2026-01-21",
+        "why": "Trump's stated intention to negotiate for U.S. 'ownership' of Greenland, framed as part of a peace initiative.",
+        "soWhat": "This raises concerns about U.S. foreign policy intentions, potential conflict with NATO allies, and implications for Arctic sovereignty and resource control."
+      },
+      "evidence": [
+        {
+          "feedId": "5",
+          "source": "MarketWatch",
+          "title": "This Trump comment about Greenland at Davos is calming markets. Here’s why.",
+          "link": "https://www.nytimes.com/2026/01/20/world/canada/carney-speech-davos-trump.html",
+          "timestamp": "2026-01-21 16:28:00 UTC",
+          "quote": "Trump said he wouldn’t use force to obtain Greenland and called for negotiations."
+        },
+        {
+          "feedId": "6",
+          "source": "MarketWatch",
+          "title": "This Trump comment about Greenland at Davos is calming markets. Here’s why.",
+          "link": "https://www.marketwatch.com/story/this-trump-comment-about-greenland-at-davos-is-calming-markets-heres-why-3be5f37d?mod=mw_rss_topstories",
+          "timestamp": "2026-01-21 16:28:00 UTC",
+          "quote": "U.S. President Donald Trump on Wednesday said he wouldn’t use force to obtain Greenland and called for negotiations, with his remarks coming during a speech at the World Economic Forum’s annual gathering in Davos, Switzerland."
+        },
+        {
+          "feedId": "8",
+          "source": "Al Jazeera",
+          "title": "Trump says he wants ‘ownership’ of Greenland, but ‘won’t use force’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/trump-says-he-wants-ownership-of-greenland-but-wont-use?traffic_source=rss",
+          "timestamp": "Wed, 21 Jan 2026 15:20:33 +0000 UTC",
+          "quote": "Donald Trump said the US needs “ownership” of Greenland, but he “won’t use force” to acquire the territory."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Trump's proposal for a 'Board of Peace' that includes Greenland is a strategic move to assert U.S. influence in the Arctic region.",
+          "claimB": "Greenland's inclusion in the Board of Peace may be a diplomatic effort to address global conflicts without resorting to military action.",
+          "evidenceA": [
+            {
+              "feedId": "8",
+              "source": "Al Jazeera",
+              "title": "Trump says he wants ‘ownership’ of Greenland, but ‘won’t use force’",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/trump-says-he-wants-ownership-of-greenland-but-wont-use?traffic_source=rss",
+              "timestamp": "Wed, 21 Jan 2026 15:20:33 +0000 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "5",
+              "source": "NY Times World",
+              "title": "Carney Speech on U.S. ‘Rupture’ and Canada’s Survival Draws Standing Ovation at Davos",
+              "link": "https://www.nytimes.com/2026/01/20/world/canada/carney-speech-davos-trump.html",
+              "timestamp": "2026-01-21 12:32:10 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Potential reactions from NATO allies regarding U.S. foreign policy shifts.",
+        "Market responses to Trump's comments on Greenland and broader economic policies.",
+        "Broader implications for U.S.-European relations and Arctic sovereignty disputes.",
+        "Potential for similar geopolitical maneuvers in other contested territories."
+      ]
+    },
+    "sig_a9a068aa": {
+      "signalId": "sig_a9a068aa",
+      "generatedAt": "2026-01-21T20:29:29.089Z",
+      "header": {
+        "title": "EU Energy Security Under Threat",
+        "text": "Europe's dependence on U.S. policy regarding Greenland raises concerns about energy security and strategic autonomy.",
+        "sentiment": "neutral",
+        "deltaType": "policy",
+        "category": "Geopolitical"
+      },
+      "fiveWs": {
+        "who": [
+          "European leaders",
+          "U.S. President Donald Trump"
+        ],
+        "what": "Concerns about energy security and strategic autonomy due to U.S. policy on Greenland.",
+        "where": "Greenland, Europe",
+        "when": "2026-01-21",
+        "why": "Trump's ambitions regarding Greenland and his approach towards international relations.",
+        "soWhat": "This could affect transatlantic relations and Europe's energy security if U.S. policies shift."
+      },
+      "evidence": [
+        {
+          "feedId": "1",
+          "source": "Al Jazeera",
+          "title": "Can Europe break with Trump? A tale of energy, defence, economic dependence",
+          "link": "https://www.aljazeera.com/economy/2026/1/21/can-europe-break-with-trump-a-tale-of-energy-defence-economic-dependence?traffic_source=rss",
+          "timestamp": "Wed, 21 Jan 2026 13:20:59 +0000 UTC",
+          "quote": "Trump has angered European leaders with his Greenland ambitions and tariffs-for-all-who-oppose approach."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Europe is dependent on U.S. policy regarding Greenland.",
+          "claimB": "Trump's stance on Greenland may not necessarily threaten energy security.",
+          "evidenceA": [
+            {
+              "feedId": "1",
+              "source": "Al Jazeera",
+              "title": "Can Europe break with Trump? A tale of energy, defence, economic dependence",
+              "link": "https://www.aljazeera.com/economy/2026/1/21/can-europe-break-with-trump-a-tale-of-energy-defence-economic-dependence?traffic_source=rss",
+              "timestamp": "Wed, 21 Jan 2026 13:20:59 +0000 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "0",
+              "source": "MarketWatch",
+              "title": "This Trump comment about Greenland at Davos is calming markets. Here’s why.",
+              "link": "https://www.marketwatch.com/story/this-trump-comment-about-greenland-at-davos-is-calming-markets-heres-why-3be5f37d?mod=mw_rss_topstories",
+              "timestamp": "2026-01-21 16:28:00 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Further developments in U.S.-Greenland relations",
+        "Reactions from Greenland authorities",
+        "Changes in energy markets if Greenland resources become contested"
+      ]
+    },
+    "sig_f1566085": {
+      "signalId": "sig_f1566085",
+      "generatedAt": "2026-01-21T20:29:47.990Z",
+      "header": {
+        "title": "Nuclear Energy Renaissance Post-Fukushima",
+        "text": "Japan restarts its largest nuclear plant amid ongoing safety concerns following the Fukushima disaster.",
+        "sentiment": "interesting",
+        "deltaType": "event",
+        "category": "Science"
+      },
+      "fiveWs": {
+        "who": [
+          "Japanese government",
+          "Tokyo Electric Power Company"
+        ],
+        "what": "Restart of the largest nuclear reactor in Japan",
+        "where": "Japan",
+        "when": "2026-01-21",
+        "why": "To address climate change pressures and energy needs, despite ongoing safety concerns from the Fukushima disaster",
+        "soWhat": "This could signal a potential global shift toward nuclear energy as climate change pressures mount, but safety concerns remain."
+      },
+      "evidence": [
+        {
+          "feedId": "8",
+          "source": "BBC World",
+          "title": "Japan restarts world's largest nuclear plant as Fukushima memories loom large",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/killer-of-japans-former-pm-shinzo-abe-sentenced-to-life-in-prison?traffic_source=rss",
+          "timestamp": "2026-01-21 16:03:54 UTC",
+          "quote": "Japan restarts a reactor at the world's largest nuclear plant nearly 15 years after the Fukushima meltdown."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Restarting nuclear plants will help combat climate change by reducing carbon emissions.",
+          "claimB": "Restarting nuclear plants increases the risk of future meltdowns and long-term environmental damage.",
+          "evidenceA": [
+            {
+              "feedId": "7",
+              "source": "Al Jazeera",
+              "title": "Key takeaways from Trump’s one-year anniversary briefing",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/key-takeaways-from-trumps-one-year-anniversary-briefing?traffic_source=rss",
+              "timestamp": "2026-01-21 13:01:13 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "0",
+              "source": "BBC World",
+              "title": "Japan restarts world's largest nuclear plant as Fukushima memories loom large",
+              "link": "https://www.bbc.com/news/articles/cq6v0v32rg1o?at_medium=RSS&at_campaign=rss",
+              "timestamp": "2026-01-21 16:03:54 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Global trends in nuclear energy adoption",
+        "Safety standards for nuclear plants post-Fukushima",
+        "Impact of climate change on energy policies worldwide",
+        "Reactions from international organizations to Japan's decision"
+      ]
+    },
+    "sig_7ad67f9a": {
+      "signalId": "sig_7ad67f9a",
+      "generatedAt": "2026-01-21T20:30:03.599Z",
+      "header": {
+        "title": "AI's Growing Water Appetite",
+        "text": "The rapid expansion of artificial intelligence is creating unprecedented strain on global water supplies, posing a public health risk.",
+        "sentiment": "somewhat-negative",
+        "deltaType": "emerging_concern",
+        "category": "Tech/AI"
+      },
+      "fiveWs": {
+        "who": [
+          "AI developers",
+          "Tech companies"
+        ],
+        "what": "AI's increasing water consumption",
+        "where": "Global scale",
+        "when": "2026",
+        "why": "Rapid expansion of AI infrastructure and training processes",
+        "soWhat": "Potential public health risk and strain on water resources"
+      },
+      "evidence": [
+        {
+          "feedId": "0",
+          "source": "Al Jazeera",
+          "title": "AI’s growing thirst for water is becoming a public health risk",
+          "link": "https://www.aljazeera.com/opinions/2026/1/21/ais-growing-thirst-for-water-is-becoming-a-public-health-risk?traffic_source=rss",
+          "timestamp": "Wed, 21 Jan 2026 12:04:40 +0000 UTC",
+          "quote": "AI’s rapid expansion is placing growing pressure on water supplies and public health."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "AI's water consumption is a minor environmental issue",
+          "claimB": "AI's water usage poses a significant public health risk",
+          "evidenceA": [],
+          "evidenceB": [
+            {
+              "feedId": "0",
+              "source": "Al Jazeera",
+              "title": "AI’s growing thirst for water is becoming a public health risk",
+              "link": "https://www.aljazeera.com/opinions/2026/1/21/ais-growing-thirst-for-water-is-becoming-a-public-health-risk?traffic_source=rss",
+              "timestamp": "Wed, 20 Jan 2026 12:04:40 UTC",
+              "quote": "AI’s rapid expansion is placing growing pressure on water supplies and public health."
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Other environmental impacts of AI technology",
+        "Water scarcity in regions with high AI infrastructure",
+        "Policy responses to AI's resource consumption"
+      ]
     }
   },
   "globalState": {
     "isOnline": true,
-    "lastChecked": "2026-01-21T20:23:25.450Z",
+    "lastChecked": "2026-01-21T20:40:44.269Z",
     "lastError": null
   }
 }
