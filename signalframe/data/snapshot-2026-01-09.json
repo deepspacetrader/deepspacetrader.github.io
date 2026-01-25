@@ -13,7 +13,7 @@
       "novelty": 90,
       "explain": "A clear pivot in U.S. strategy regarding Venezuela's oil resources following direct engagement with industry leaders.",
       "shareText": "New developments in Venezuela oil dispute following Trump administration engagement.",
-      "evidence": [
+      "source": [
         {
           "feedId": "20",
           "source": "MarketWatch",
@@ -43,7 +43,7 @@
       "novelty": 85,
       "explain": "A significant escalation in the AI governance debate following the controversial feature launch.",
       "shareText": "X restricts Grok's image generation feature amid ethical concerns.",
-      "evidence": [
+      "source": [
         {
           "feedId": "28",
           "source": "TechCrunch",
@@ -66,7 +66,7 @@
       "novelty": 70,
       "explain": "A significant market shift influenced by administration policy statements.",
       "shareText": "Mortgage rates drop below 6% for the first time in three years.",
-      "evidence": [
+      "source": [
         {
           "feedId": "20",
           "source": "MarketWatch",
@@ -88,7 +88,7 @@
       "novelty": 95,
       "explain": "A cultural signal reflecting public sentiment towards AI and technology.",
       "shareText": "Black Mirror returns for season 9, exploring the future of AI.",
-      "evidence": [
+      "source": [
         {
           "feedId": "46",
           "source": "The Verge",
@@ -110,7 +110,7 @@
       "novelty": 80,
       "explain": "A significant escalation in geopolitical tensions with potential global food security implications.",
       "shareText": "Black Sea grain deal collapses, risking global food security.",
-      "evidence": [
+      "source": [
         {
           "feedId": "24",
           "source": "Al Jazeera",
@@ -132,7 +132,7 @@
       "novelty": 85,
       "explain": "A significant development in energy infrastructure supporting AI growth.",
       "shareText": "Meta signs $15B for nuclear power to fuel AI ambitions.",
-      "evidence": [
+      "source": [
         {
           "feedId": "28",
           "source": "TechCrunch",
@@ -155,7 +155,7 @@
       "novelty": 75,
       "explain": "A significant policy shift in response to international pressure.",
       "shareText": "Venezuela begins releasing political prisoners amid U.S. engagement.",
-      "evidence": [
+      "source": [
         {
           "feedId": "24",
           "source": "Al Jazeera",
@@ -177,7 +177,7 @@
       "novelty": 80,
       "explain": "A significant escalation in the AI ethics debate.",
       "shareText": "Apple and Google demand removal of X's AI chatbot over ethical concerns.",
-      "evidence": [
+      "source": [
         {
           "feedId": "28",
           "source": "The Verge",
@@ -1398,7 +1398,7 @@
         "why": "Partisan political strategy and personal grievances",
         "soWhat": "Escalation of trade tensions between the US and Europe, affecting global markets and transatlantic relations."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "0",
           "source": "BBC World",
@@ -1420,7 +1420,7 @@
         {
           "claimA": "Trump's tariffs are necessary for national security",
           "claimB": "Tariffs are detrimental to the global economy",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "4",
               "source": "NY Times World",
@@ -1429,7 +1429,7 @@
               "timestamp": "2026-01-19 23:14:17 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "1",
               "source": "BBC World",
@@ -1467,7 +1467,7 @@
         "why": "Systemic safety concerns in Spain's transport system",
         "soWhat": "This is the deadliest transport accident in Spain in over a decade, leading to national mourning and investigations"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "1",
           "source": "BBC World",
@@ -1497,7 +1497,7 @@
         {
           "claimA": "The crash was caused by a track failure",
           "claimB": "The crash was caused by human error",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "2",
               "source": "NY Times World",
@@ -1506,7 +1506,7 @@
               "timestamp": "2026-01-19 23:11:36 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "5",
               "source": "BBC World",
@@ -1545,7 +1545,7 @@
         "why": "To address legal challenges against the Fed's independence.",
         "soWhat": "This could impact monetary policy and financial markets."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "9",
           "source": "NY Times World",
@@ -1559,7 +1559,7 @@
         {
           "claimA": "The Supreme Court testimony will reinforce the Fed's independence.",
           "claimB": "The testimony may lead to erosion of the Fed's autonomy.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "0",
               "source": "MarketWatch",
@@ -1568,7 +1568,7 @@
               "timestamp": "2026-01-19 19:57:00 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "1",
               "source": "Al Jazeera",
@@ -1607,7 +1607,7 @@
         "why": "Trump's geopolitical strategy involving Greenland and perceived slights, including Nobel Peace Prize snub",
         "soWhat": "Significant escalation in US-EU relations, potential economic downturn, and strategic implications for NATO alliance"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "4",
           "source": "BBC World",
@@ -1637,7 +1637,7 @@
         {
           "claimA": "Trump's tariffs on European goods are solely for strategic reasons related to Greenland",
           "claimB": "The tariffs are a response to Trump's perceived slights, including the Nobel Peace Prize snub",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "4",
               "source": "BBC World",
@@ -1653,7 +1653,7 @@
               "timestamp": "Mon, 19 Jan 2026 20:52:05 +0000 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "5",
               "source": "NY Times World",
@@ -1701,7 +1701,7 @@
         "why": "An immediate investigation is being conducted to determine the cause.",
         "soWhat": "This is one of Europe's worst rail disasters in over a decade, leading to national mourning and significant political implications."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "6",
           "source": "NY Times World",
@@ -1723,7 +1723,7 @@
         {
           "claimA": "The derailment was caused by a break in the track.",
           "claimB": "The derailment was caused by a technical failure.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "6",
               "source": "NY Times World",
@@ -1732,7 +1732,7 @@
               "timestamp": "2026-01-19 23:11:36 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "6",
               "source": "NY Times World",
@@ -1773,7 +1773,7 @@
         "why": "Trump links the move to not winning Nobel Peace Prize and global security needs",
         "soWhat": "Escalation of trade disputes between U.S. and EU, potential economic impact and strain on U.S.-EU alliance"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "1",
           "source": "NY Times World",
@@ -1827,7 +1827,7 @@
         {
           "claimA": "Trump’s tariff threats are justified for national security reasons",
           "claimB": "Trump’s tariff threats are politically motivated and undermine the U.S.-EU alliance",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "2",
               "source": "NY Times World",
@@ -1837,7 +1837,7 @@
               "quote": "In a text, President Trump told Norway’s prime minister that he no longer felt obliged to “think purely of Peace” and that the U.S. needed the island for global security."
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "7",
               "source": "Al Jazeera",
@@ -1878,7 +1878,7 @@
         "why": "President Trump's aggressive trade policies",
         "soWhat": "Increased market volatility and potential for economic conflict"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "0",
           "source": "NY Times World",
@@ -1900,7 +1900,7 @@
         {
           "claimA": "Tariff policies lead to economic conflict",
           "claimB": "Tariff policies may be necessary for national security",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "0",
               "source": "NY Times World",
@@ -1910,7 +1910,7 @@
               "quote": "As European leaders try to engage with the American president over Greenland and the future of Ukraine, he is mocking them as weak."
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "22",
               "source": "MarketWatch",
@@ -1950,7 +1950,7 @@
         "why": "Due to a 'gap' in rail safety protocols and infrastructure maintenance",
         "soWhat": "This incident has exposed systemic failures in Spain's rail infrastructure, potentially leading to increased safety regulations and investigations into similar incidents globally."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "2",
           "source": "BBC World",
@@ -1964,8 +1964,8 @@
         {
           "claimA": "The derailment was caused by a technical failure in the rail system.",
           "claimB": "The derailment was caused by human error.",
-          "evidenceA": [],
-          "evidenceB": []
+          "sourceA": [],
+          "sourceB": []
         }
       ],
       "watchNext": [
@@ -1995,7 +1995,7 @@
         "why": "Strategic interest in the Arctic region",
         "soWhat": "Potential implications for Arctic strategy and transatlantic relations"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "11",
           "source": "Al Jazeera",
@@ -2025,7 +2025,7 @@
         {
           "claimA": "US President Trump is pursuing Greenland for strategic reasons.",
           "claimB": "European allies are concerned about this pursuit.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "1",
               "source": "Al Jazeera",
@@ -2034,7 +2034,7 @@
               "timestamp": "Wed, 21 Jan 2026 15:20:33 +0000 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "2",
               "source": "Al Jazeera",
@@ -2074,7 +2074,7 @@
         "why": "Investors are skeptical about Netflix's 2026 guidance and its acquisition of Warner Bros. Discovery, and there is growing concern about the implications of AI chatbots in healthcare information.",
         "soWhat": "This could lead to further stock volatility for Netflix and other companies involved in AI and healthcare sectors, and may indicate broader shifts in investor sentiment towards tech and AI applications."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "6",
           "source": "MarketWatch",
@@ -2096,7 +2096,7 @@
         {
           "claimA": "Netflix's diversification into content and healthcare through acquisitions is expected to stabilize its business model.",
           "claimB": "Market concerns about AI's role in healthcare information may negatively impact Netflix's stock performance.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "6",
               "source": "MarketWatch",
@@ -2105,7 +2105,7 @@
               "timestamp": "2026-01-21 16:28:00 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "3",
               "source": "MarketWatch",
@@ -2145,7 +2145,7 @@
         "why": "Trump's stated intention to negotiate for U.S. 'ownership' of Greenland, framed as part of a peace initiative.",
         "soWhat": "This raises concerns about U.S. foreign policy intentions, potential conflict with NATO allies, and implications for Arctic sovereignty and resource control."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "5",
           "source": "MarketWatch",
@@ -2175,7 +2175,7 @@
         {
           "claimA": "Trump's proposal for a 'Board of Peace' that includes Greenland is a strategic move to assert U.S. influence in the Arctic region.",
           "claimB": "Greenland's inclusion in the Board of Peace may be a diplomatic effort to address global conflicts without resorting to military action.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "8",
               "source": "Al Jazeera",
@@ -2184,7 +2184,7 @@
               "timestamp": "Wed, 21 Jan 2026 15:20:33 +0000 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "5",
               "source": "NY Times World",
@@ -2223,7 +2223,7 @@
         "why": "Trump's ambitions regarding Greenland and his approach towards international relations.",
         "soWhat": "This could affect transatlantic relations and Europe's energy security if U.S. policies shift."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "1",
           "source": "Al Jazeera",
@@ -2237,7 +2237,7 @@
         {
           "claimA": "Europe is dependent on U.S. policy regarding Greenland.",
           "claimB": "Trump's stance on Greenland may not necessarily threaten energy security.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "1",
               "source": "Al Jazeera",
@@ -2246,7 +2246,7 @@
               "timestamp": "Wed, 21 Jan 2026 13:20:59 +0000 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "0",
               "source": "MarketWatch",
@@ -2284,7 +2284,7 @@
         "why": "To address climate change pressures and energy needs, despite ongoing safety concerns from the Fukushima disaster",
         "soWhat": "This could signal a potential global shift toward nuclear energy as climate change pressures mount, but safety concerns remain."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "8",
           "source": "BBC World",
@@ -2298,7 +2298,7 @@
         {
           "claimA": "Restarting nuclear plants will help combat climate change by reducing carbon emissions.",
           "claimB": "Restarting nuclear plants increases the risk of future meltdowns and long-term environmental damage.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "7",
               "source": "Al Jazeera",
@@ -2307,7 +2307,7 @@
               "timestamp": "2026-01-21 13:01:13 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "0",
               "source": "BBC World",
@@ -2346,7 +2346,7 @@
         "why": "Rapid expansion of AI infrastructure and training processes",
         "soWhat": "Potential public health risk and strain on water resources"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "0",
           "source": "Al Jazeera",
@@ -2360,8 +2360,8 @@
         {
           "claimA": "AI's water consumption is a minor environmental issue",
           "claimB": "AI's water usage poses a significant public health risk",
-          "evidenceA": [],
-          "evidenceB": [
+          "sourceA": [],
+          "sourceB": [
             {
               "feedId": "0",
               "source": "Al Jazeera",
@@ -2400,7 +2400,7 @@
         "why": "Abrupt policy reversal, concerns among European allies",
         "soWhat": "Significant geopolitical shift with implications for NATO and U.S.-European relations"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "52",
           "source": "Al Jazeera",
@@ -2414,7 +2414,7 @@
         {
           "claimA": "Trump has secured 'total access' to Greenland",
           "claimB": "European allies are concerned about this abrupt policy reversal",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "52",
               "source": "Al Jazeera",
@@ -2424,7 +2424,7 @@
               "quote": "Trump claims to have secured ‘total access’ to Greenland in NATO deal"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "4",
               "source": "NY Times World",
@@ -2472,7 +2472,7 @@
         "why": "Concerns about sovereignty and strategic implications",
         "soWhat": "This could alter strategic balances in the North Atlantic region"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "2",
           "source": "NY Times World",
@@ -2486,7 +2486,7 @@
         {
           "claimA": "Trump's announcement is a positive move for U.S. interests",
           "claimB": "The move raises concerns about sovereignty and strategic implications",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "2",
               "source": "NY Times World",
@@ -2496,7 +2496,7 @@
               "quote": "Zelensky Criticizes European Allies After Meeting With Trump"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "8",
               "source": "Al Jazeera",
@@ -2536,7 +2536,7 @@
         "why": "To enable Personal Intelligence and AI Mode for more personalized responses.",
         "soWhat": "This raises significant privacy concerns and represents a shift in how AI systems are personalized."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "5",
           "source": "Ars Technica",
@@ -2550,7 +2550,7 @@
         {
           "claimA": "Integration of personal data into AI systems enhances user experience by providing more personalized services.",
           "claimB": "Such integration poses significant privacy risks and may lead to misuse of personal data.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "5",
               "source": "Ars Technica",
@@ -2560,7 +2560,7 @@
               "quote": "Google adds your Gmail and Photos to AI Mode to enable \"Personal Intelligence\""
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "5",
               "source": "Ars Technica",
@@ -2598,7 +2598,7 @@
         "why": "Growing uncertainty in cryptocurrency markets.",
         "soWhat": "This indicates a potential broader market correction and shift in investor confidence away from cryptocurrency as a haven or growth asset."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "4",
           "source": "MarketWatch",
@@ -2612,7 +2612,7 @@
         {
           "claimA": "Bitcoin is losing its appeal as a haven or growth asset.",
           "claimB": "The market correction is temporary and will not affect long-term potential.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "4",
               "source": "MarketWatch",
@@ -2622,7 +2622,7 @@
               "quote": "Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "7",
               "source": "MarketWatch",
@@ -2670,7 +2670,7 @@
         "why": "Strong demand for AI-focused processors",
         "soWhat": "Indicates strong market confidence in AMD's position in the growing AI processor market"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "3",
           "source": "MarketWatch",
@@ -2684,7 +2684,7 @@
         {
           "claimA": "AMD's stock surge is solely due to AI demand",
           "claimB": "The surge may also be influenced by broader market trends or competitor actions",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "3",
               "source": "MarketWatch",
@@ -2694,7 +2694,7 @@
               "quote": "AMD’s stock is on a hot streak not seen in six years"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "1",
               "source": "MarketWatch",
@@ -2732,7 +2732,7 @@
         "why": "Torrential rains",
         "soWhat": "Humanitarian crisis with displacement and infrastructure damage"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "2",
           "source": "Al Jazeera",
@@ -2746,7 +2746,7 @@
         {
           "claimA": "The flooding is solely due to natural causes.",
           "claimB": "The flooding may be exacerbated by climate change.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "2",
               "source": "Al Jazeera",
@@ -2756,7 +2756,7 @@
               "quote": "Flooding causes widespread damage across southern Africa"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "0",
               "source": "Al Jazeera",
@@ -2795,7 +2795,7 @@
         "why": "Despite ongoing peace talks, Russia continues military operations",
         "soWhat": "Escalation of hostilities despite diplomatic efforts, raising concerns about further conflict and humanitarian impact"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "0",
           "source": "BBC World",
@@ -2841,7 +2841,7 @@
         {
           "claimA": "Russia's military operations are necessary for strategic gains",
           "claimB": "Diplomatic efforts should be prioritized to avoid further escalation",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "6",
               "source": "BBC World",
@@ -2850,7 +2850,7 @@
               "timestamp": "2026-01-23 21:33:55 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "2",
               "source": "NY Times World",
@@ -2895,7 +2895,7 @@
         "why": "Increased enforcement by Immigration and Customs Enforcement",
         "soWhat": "This event highlights rising anti-immigration tensions and could escalate into broader social unrest, drawing national and international attention."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "0",
           "source": "Al Jazeera",
@@ -2909,7 +2909,7 @@
         {
           "claimA": "ICE crackdowns lead to public protests",
           "claimB": "ICE actions are necessary for enforcing immigration laws",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "0",
               "source": "Al Jazeera",
@@ -2918,7 +2918,7 @@
               "timestamp": "Sat, 24 Jan 2026 08:17:49 +0000 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "0",
               "source": "Al Jazeera",
@@ -2957,7 +2957,7 @@
         "why": "Amid geopolitical tensions",
         "soWhat": "This could weaken traditional alliances and alter global power dynamics"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "1",
           "source": "BBC World",
@@ -2979,7 +2979,7 @@
         {
           "claimA": "The US defense strategy shift to limited ally support is a response to geopolitical tensions.",
           "claimB": "This shift may be due to budget constraints and a focus on domestic security.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "2",
               "source": "Ars Technica",
@@ -2988,7 +2988,7 @@
               "timestamp": "Sat, 24 Jan 2026 07:06:55 +000 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "11",
               "source": "Ars Technica",
@@ -3027,7 +3027,7 @@
         "why": "Accusations of the UN agency failing to adopt reforms and mishandling the pandemic.",
         "soWhat": "This could impact global health initiatives and diminish US participation in international health governance."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "19",
           "source": "Al Jazeera",
@@ -3041,13 +3041,13 @@
         {
           "claimA": "The US withdrawal will severely damage global health coordination.",
           "claimB": "The withdrawal may allow the US to focus resources on domestic health issues.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "19",
               "source": "Al Jazeera"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "1",
               "source": "BBC Health",
@@ -3086,7 +3086,7 @@
         "why": "To escalate the conflict during ongoing peace negotiations",
         "soWhat": "This undermines diplomatic efforts and indicates a high level of instability in the region"
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "5",
           "source": "Al Jazeera",
@@ -3100,7 +3100,7 @@
         {
           "claimA": "Russia's attack during peace talks shows a disregard for diplomatic efforts.",
           "claimB": "The attack may be a tactical move to gain leverage in negotiations.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "2",
               "source": "Al Jazeera",
@@ -3109,7 +3109,7 @@
               "timestamp": "Fri, 23 Jan 2026 23:08:46 +0000 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "5",
               "source": "Al Jazeera",
@@ -3147,7 +3147,7 @@
         "why": "Ongoing global cyber threats and potential destructive intent",
         "soWhat": "Significant escalation in cyber warfare, risking critical infrastructure failure and mirroring past destructive attacks."
       },
-      "evidence": [
+      "source": [
         {
           "feedId": "0",
           "source": "Ars Technica",
@@ -3161,7 +3161,7 @@
         {
           "claimA": "The cyberattack was solely a destructive act with no geopolitical motives.",
           "claimB": "The attack is part of a broader pattern of state-sponsored cyber warfare targeting critical infrastructure.",
-          "evidenceA": [
+          "sourceA": [
             {
               "feedId": "0",
               "source": "Ars Technica",
@@ -3170,7 +3170,7 @@
               "timestamp": "2026-01-24 19:08:06 UTC"
             }
           ],
-          "evidenceB": [
+          "sourceB": [
             {
               "feedId": "0",
               "source": "Ars Technica",
