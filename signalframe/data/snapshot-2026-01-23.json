@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T09:20:46.832Z",
+  "lastUpdated": "2026-01-25T01:22:34.761Z",
   "narrative": "Russia's continued full-scale invasion of Ukraine persists, marked by daily attacks on major cities and ongoing peace talks in Abu Dhabi despite casualties. Simultaneously, the US is shifting defence priorities, offering reduced support to traditional allies while adopting a tougher stance against China and Russia, exemplified by preparations for naval deployments near Iran. This strategic posture coincides with airline disruptions across the Middle East, influenced by heightened rhetoric. These developments underscore a volatile geopolitical landscape where conventional military operations, strategic realignments, and symbolic diplomatic gestures coexist.\n\nParallel to these conflicts, the planet faces escalating climate-related crises. A major winter storm threatens the US with potentially life-threatening conditions, while Indonesia suffers another deadly landslide following previous natural disasters. Elsewhere, volcanic activity adds to the catalogue of extreme weather events. These recurring natural disasters strain resources and highlight vulnerabilities, reinforcing the theme of environmental instability intersecting with geopolitical tensions.\n\nIn the technology sphere, significant advancements and regulatory concerns define the narrative. Innovations like AI breakthroughs, the expansion of electric vehicle capabilities, and novel applications such as blockchain for humanitarian aid in restrictive environments are emerging. However, these developments are counterbalanced by regulatory probes into tech giants, corporate espionage, and intense debates over data privacy and platform control, reflecting a complex interplay between rapid technological progress and societal oversight.\n\nHealth policy and international cooperation face disruption. The US withdrawal from the World Health Organization marks a significant departure from global health governance, potentially impacting crisis response capabilities. Controversies surrounding mandatory vaccinations and the politicization of scientific initiatives further complicate the health landscape. These actions, alongside geopolitical shifts, signal a fragmentation of international institutions and a contested space for scientific collaboration.\n\nFinally, science and business are intrinsically linked in these developments. Scientific figures like Dr. Sanchez, whose agricultural innovations aided global food security, represent positive contributions. Business decisions, such as the US's strategic interest in Greenland's resources, intersect with scientific fields like AI and energy, while corporate actions raise ethical questions. This theme connects scientific progress, economic strategy, and the practical application of innovation, often amidst controversy or geopolitical competition. These diverse threads collectively shape a world marked by persistent tensions, rapid technological change, environmental stress, and contested governance frameworks.",
   "signals": [
     {
@@ -2941,11 +2941,193 @@
         "Ukraine's response to the attacks",
         "Broader implications for Middle East stability"
       ]
+    },
+    "sig_54a106d6": {
+      "signalId": "sig_54a106d6",
+      "generatedAt": "2026-01-25T00:08:45.617Z",
+      "header": {
+        "title": "Cyberattack Escalates Against Energy Grid",
+        "text": "A wiper malware attack targeted Poland's energy grid, potentially disrupting services amid ongoing global cyber threats.",
+        "sentiment": "negative",
+        "deltaType": "escalation",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Wiper Malware"
+        ],
+        "what": "Cyberattack on energy grid",
+        "where": "Poland",
+        "when": "2026-01-24",
+        "why": "Ongoing global cyber threats and potential destructive intent",
+        "soWhat": "Significant escalation in cyber warfare, risking critical infrastructure failure and mirroring past destructive attacks."
+      },
+      "evidence": [
+        {
+          "feedId": "0",
+          "source": "Ars Technica",
+          "title": "Wiper malware targeted Poland energy grid, but failed to knock out electricity",
+          "link": "https://arstechnica.com/?p=2137210",
+          "timestamp": "2026-01-24 19:08:06 UTC",
+          "quote": "Wiper malware targeted Poland energy grid, but failed to knock out electricity. Destructive payload unleashed on 10-year anniversary of Russia's attack on Ukraine's grid."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "The cyberattack was solely a destructive act with no geopolitical motives.",
+          "claimB": "The attack is part of a broader pattern of state-sponsored cyber warfare targeting critical infrastructure.",
+          "evidenceA": [
+            {
+              "feedId": "0",
+              "source": "Ars Technica",
+              "title": "Wiper malware targeted Poland energy grid, but failed to knock out electricity",
+              "link": "https://arstechnica.com/?p=2137210",
+              "timestamp": "2026-01-24 19:08:06 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "0",
+              "source": "Ars Technica",
+              "title": "Wiper malware targeted Poland energy grid, but failed to knock out electricity",
+              "link": "https://arstechnica.com/?p=2137210",
+              "timestamp": "2026-01-24 19:08:06 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Further cyberattacks on energy grids in other countries",
+        "Response from international cybersecurity organizations",
+        "Analysis of the malware's origin and capabilities",
+        "Potential links to ongoing geopolitical tensions",
+        "Impact on global energy markets"
+      ]
+    },
+    "sig_14daded3": {
+      "signalId": "sig_14daded3",
+      "generatedAt": "2026-01-25T01:07:43.330Z",
+      "header": {
+        "title": "Russia launches strikes on Kyiv and Kharkiv, escalating war with Ukraine",
+        "text": "Despite ongoing trilateral discussions in Abu Dhabi aimed at ending the conflict, Russia launched strikes on Kyiv and Kharkiv, resulting in at least one death and multiple injuries. This marks a severe escalation in the war between Russia and Ukraine.",
+        "sentiment": "neutral",
+        "deltaType": "escalation",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Russia",
+          "Ukraine"
+        ],
+        "what": "strikes on Kyiv and Kharkiv",
+        "where": "Abu Dhabi, Kyiv, Kharkiv",
+        "when": "2026-01-24",
+        "why": "Ongoing trilateral discussions in Abu Dhabi aimed at ending the conflict",
+        "soWhat": "Escalation of the war between Russia and Ukraine"
+      },
+      "source": [
+        {
+          "feedId": "15",
+          "source": "BBC World",
+          "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+          "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-24 16:56:55 UTC"
+        },
+        {
+          "feedId": "6",
+          "source": "Al Jazeera",
+          "title": "US-brokered Russia-Ukraine talks close with no breakthrough",
+          "link": "https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale",
+          "timestamp": "Sat, 24 Jan 2026 18:32:32 +0000 UTC"
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Russia launched strikes on Kyiv and Kharkiv",
+          "claimB": "Ongoing trilateral discussions in Abu Dhabi aimed at ending the conflict",
+          "sourceA": [
+            {
+              "feedId": "15",
+              "source": "BBC World"
+            }
+          ],
+          "sourceB": [
+            {
+              "feedId": "6",
+              "source": "Al Jazeera",
+              "title": "MicroSD Express cards and Anker’s travel adapter rule the deal roost this week",
+              "link": "https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale",
+              "timestamp": "2026-01-24 18:21:02 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Russia-Ukraine talks",
+        "US-China trade deal"
+      ]
+    },
+    "sig_69da623": {
+      "signalId": "sig_69da623",
+      "generatedAt": "2026-01-25T01:14:07.443Z",
+      "header": {
+        "title": "Trump threatens Canada with 100% tariffs over China trade deal",
+        "text": "President Trump said he would impose tariffs if Canada made 'a deal with China,' though there is no sign that those countries are discussing a broad trade agreement.",
+        "sentiment": "neutral",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Trump"
+        ],
+        "what": "imposed tariff threat",
+        "where": "Canada",
+        "when": "2026-01-24",
+        "why": "made 'a deal with China'"
+      },
+      "source": [
+        {
+          "feedId": "20",
+          "source": "NY Times World",
+          "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
+          "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+          "timestamp": "2026-01-24 16:00:00 UTC"
+        },
+        {
+          "feedId": "19",
+          "source": "Al Jazeera",
+          "title": "Trump threatens 100 percent tariff on Canada over China deal",
+          "link": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss",
+          "timestamp": "Sat, 24 Jan 2026 16:11:38 +0000 UTC"
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Trump threatens Canada with 100% tariffs",
+          "claimB": "No sign that those countries are discussing a broad trade agreement",
+          "sourceA": [
+            {
+              "feedId": "20",
+              "source": "NY Times World"
+            }
+          ],
+          "sourceB": [
+            {
+              "feedId": "19",
+              "source": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Canada-China trade deal",
+        "US-China trade relations"
+      ]
     }
   },
   "globalState": {
     "isOnline": true,
-    "lastChecked": "2026-01-24T09:20:30.253Z",
+    "lastChecked": "2026-01-25T01:22:23.563Z",
     "lastError": null
   }
 }

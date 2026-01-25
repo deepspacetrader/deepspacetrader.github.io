@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T09:10:23.021Z",
+  "lastUpdated": "2026-01-25T01:22:40.284Z",
   "narrative": "Geopolitical instability remains pronounced with ongoing conflicts in Ukraine and Gaza, coupled with heightened tensions over territorial claims like Greenland and the establishment of the US Board of Peace. Sovereignty issues, particularly concerning European allies and Middle Eastern nations, continue to surface, reflecting a volatile international landscape where major powers' shifting policies create uncertainty.\n\nAI development is accelerating rapidly, marked by significant corporate investments and new features (like Google's AI Mode). However, this progress is shadowed by serious controversies (Grok incident) and significant concerns regarding privacy, data security, and the potential misuse of AI technology, demanding urgent global regulatory attention.\n\nClimate change impacts are intensifying, with devastating floods reported across southern Africa and Mozambique causing massive displacement and loss of life. These recurring disasters underscore the escalating humanitarian and economic costs of climate inaction, demanding greater international cooperation and adaptation funding.\n\nThe technology sector is experiencing intense dynamics, driven by AI advancements, crypto volatility, and corporate restructuring. While AI represents potential economic transformation, its rapid development coexists with market fluctuations (notably Bitcoin) and corporate strategic shifts impacting employment and industry landscapes.\n\nResource scarcity and conflict remain critical themes. Water security issues in Australia post-shooting highlight the intersection of violence and resource management. Meanwhile, the Amazon crackdown on illegal mining demonstrates efforts to combat environmental destruction linked to resource extraction, while also revealing deep-rooted conflicts over control of vital natural resources.",
   "signals": [
     {
@@ -2783,11 +2783,383 @@
         "International reactions to the crackdown",
         "Effect on local economy and business operations"
       ]
+    },
+    "sig_fba1145c": {
+      "signalId": "sig_fba1145c",
+      "generatedAt": "2026-01-24T09:12:42.626Z",
+      "header": {
+        "title": "US Defense Strategy Shifts Toward Limited Ally Support",
+        "text": "The Pentagon is revising its defense strategy to offer 'more limited' support to allies, signaling a potential weakening of traditional alliances amid geopolitical tensions.",
+        "sentiment": "neutral",
+        "deltaType": "policy",
+        "category": "Financial"
+      },
+      "fiveWs": {
+        "who": [
+          "The Pentagon"
+        ],
+        "what": "Revising defense strategy to offer more limited support to allies",
+        "where": "United States",
+        "when": "2026",
+        "why": "Amid geopolitical tensions",
+        "soWhat": "This could weaken traditional alliances and alter global power dynamics"
+      },
+      "evidence": [
+        {
+          "feedId": "1",
+          "source": "BBC World",
+          "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
+          "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+          "timestamp": "2026-01-24 07:57:00 UTC",
+          "quote": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
+        },
+        {
+          "feedId": "2",
+          "source": "Ars Technica",
+          "title": "US army says homeland, curbing China priorities; limited support for allies",
+          "link": "https://www.aljazeera.com/news/2026/1/24/us-army-says-homeland-curbing-china-priorities-limited-support-for-allies?traffic_source=rss",
+          "timestamp": "Sat, 24 Jan 2026 07:06:55 +0000 UTC",
+          "quote": "A new Pentagon strategy document softens tone on traditional foes, China and Russia."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "The US defense strategy shift to limited ally support is a response to geopolitical tensions.",
+          "claimB": "This shift may be due to budget constraints and a focus on domestic security.",
+          "evidenceA": [
+            {
+              "feedId": "2",
+              "source": "Ars Technica",
+              "title": "US army says homeland, curbing China priorities; limited support for allies",
+              "link": "https://www.aljazeera.com/news/2026/1/24/us-army-says-homeland-curbing-china-priorities-limited-support-for-allies?traffic_source=rss",
+              "timestamp": "Sat, 24 Jan 2026 07:06:55 +000 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "11",
+              "source": "Ars Technica",
+              "title": "Tiny falcons are helping keep the food supply safe on cherry farms",
+              "link": "https://arstechnica.com/science/2026/01/tiny-falcons-are-helping-keep-the-food-supply-safe-on-cherry-farms/",
+              "timestamp": "2026-01-23 14:10:48 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Geopolitical implications of the US defense strategy shift",
+        "Reactions from allied nations to the limited support policy",
+        "Potential impact on global power dynamics",
+        "Budgetary details of the new defense strategy",
+        "Specific changes in military commitments to allies"
+      ]
+    },
+    "sig_6d002eb8": {
+      "signalId": "sig_6d002eb8",
+      "generatedAt": "2026-01-24T09:13:13.020Z",
+      "header": {
+        "title": "US Withdrawal from WHO Raises Global Health Concerns",
+        "text": "The US officially withdraws from the World Health Organization, potentially undermining global health coordination and response mechanisms.",
+        "sentiment": "negative",
+        "deltaType": "policy",
+        "category": "Other"
+      },
+      "fiveWs": {
+        "who": [
+          "United States"
+        ],
+        "what": "US withdrawal from WHO",
+        "where": "Global",
+        "when": "2026-01-23",
+        "why": "Accusations of the UN agency failing to adopt reforms and mishandling the pandemic.",
+        "soWhat": "This could impact global health initiatives and diminish US participation in international health governance."
+      },
+      "evidence": [
+        {
+          "feedId": "19",
+          "source": "Al Jazeera",
+          "title": "What does the US withdrawal from the WHO mean for global health?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/23/what-does-the-us-withdrawal-from-the-who-mean-for-global-health?traffic_source=rss",
+          "timestamp": "2026-01-24",
+          "quote": "The US completed its withdrawal from the World Health Organization, ending its membership for the first time since 1948."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "The US withdrawal will severely damage global health coordination.",
+          "claimB": "The withdrawal may allow the US to focus resources on domestic health issues.",
+          "evidenceA": [
+            {
+              "feedId": "19",
+              "source": "Al Jazeera"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "1",
+              "source": "BBC Health",
+              "title": "US officially leaves World Health Organization",
+              "link": "https://www.bbc.com/news/articles/cn9zznx8qdno?at_medium=RSS&at_campaign=rss",
+              "timestamp": "2026-01-23 09:18:30 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Impact on global vaccine distribution",
+        "Changes in US domestic health policy",
+        "Reactions from other WHO member states"
+      ]
+    },
+    "sig_2b9b133f": {
+      "signalId": "sig_2b9b133f",
+      "generatedAt": "2026-01-24T09:19:53.862Z",
+      "header": {
+        "title": "Russia-Ukraine War Escalation During Peace Talks",
+        "text": "Despite ongoing trilateral discussions in Abu Dhabi aimed at ending the conflict, Russia launched strikes on Kyiv and Kharkiv, resulting in at least one death and multiple injuries, marking a severe escalation in the war.",
+        "sentiment": "very-negative",
+        "deltaType": "escalation",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Russia",
+          "Ukraine",
+          "United States"
+        ],
+        "what": "Russia launched airstrikes on Kyiv and Kharkiv during peace talks",
+        "where": "Kyiv, Kharkiv, Abu Dhabi",
+        "when": "January 24, 2026",
+        "why": "To escalate the conflict during ongoing peace negotiations",
+        "soWhat": "This undermines diplomatic efforts and indicates a high level of instability in the region"
+      },
+      "evidence": [
+        {
+          "feedId": "5",
+          "source": "Al Jazeera",
+          "title": "Russia-Ukraine war live: Kyiv, Kharkiv come under attack amid peace talks",
+          "link": "https://www.aljazeera.com/news/2026/1/23/ukraine-russia-us-talks-open-in-abu-dhabi-with-territory-as-key-issue?traffic_source=rss",
+          "timestamp": "Sat, 24 Jan 2026 06:04:24 +0000 UTC",
+          "quote": "Russia-Ukraine war live: Kyiv, Kharkiv come under attack amid peace talks. At least one person has been killed in overnight Russian attacks on the capital and the northeastern city."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Russia's attack during peace talks shows a disregard for diplomatic efforts.",
+          "claimB": "The attack may be a tactical move to gain leverage in negotiations.",
+          "evidenceA": [
+            {
+              "feedId": "2",
+              "source": "Al Jazeera",
+              "title": "One survivor reported, two killed in US boat strike in the eastern Pacific",
+              "link": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
+              "timestamp": "Fri, 23 Jan 2026 23:08:46 +0000 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "5",
+              "source": "Al Jazeera",
+              "title": "Ukraine-Russia-US hold talks in Abu Dhabi with territory as key issue",
+              "link": "https://www.aljazeera.com/news/2026/1/23/ukraine-russia-us-talks-open-in-abu-dhabi-with-territory-as-key-issue?traffic_source=rss",
+              "timestamp": "Fri, 23 Jan 2026 22:02:39 +0000 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Peace talks in Abu Dhabi",
+        "Casualty reports from Kyiv and Kharkiv",
+        "Ukraine's response to the attacks",
+        "Broader implications for Middle East stability"
+      ]
+    },
+    "sig_54a106d6": {
+      "signalId": "sig_54a106d6",
+      "generatedAt": "2026-01-25T00:08:45.617Z",
+      "header": {
+        "title": "Cyberattack Escalates Against Energy Grid",
+        "text": "A wiper malware attack targeted Poland's energy grid, potentially disrupting services amid ongoing global cyber threats.",
+        "sentiment": "negative",
+        "deltaType": "escalation",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Wiper Malware"
+        ],
+        "what": "Cyberattack on energy grid",
+        "where": "Poland",
+        "when": "2026-01-24",
+        "why": "Ongoing global cyber threats and potential destructive intent",
+        "soWhat": "Significant escalation in cyber warfare, risking critical infrastructure failure and mirroring past destructive attacks."
+      },
+      "evidence": [
+        {
+          "feedId": "0",
+          "source": "Ars Technica",
+          "title": "Wiper malware targeted Poland energy grid, but failed to knock out electricity",
+          "link": "https://arstechnica.com/?p=2137210",
+          "timestamp": "2026-01-24 19:08:06 UTC",
+          "quote": "Wiper malware targeted Poland energy grid, but failed to knock out electricity. Destructive payload unleashed on 10-year anniversary of Russia's attack on Ukraine's grid."
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "The cyberattack was solely a destructive act with no geopolitical motives.",
+          "claimB": "The attack is part of a broader pattern of state-sponsored cyber warfare targeting critical infrastructure.",
+          "evidenceA": [
+            {
+              "feedId": "0",
+              "source": "Ars Technica",
+              "title": "Wiper malware targeted Poland energy grid, but failed to knock out electricity",
+              "link": "https://arstechnica.com/?p=2137210",
+              "timestamp": "2026-01-24 19:08:06 UTC"
+            }
+          ],
+          "evidenceB": [
+            {
+              "feedId": "0",
+              "source": "Ars Technica",
+              "title": "Wiper malware targeted Poland energy grid, but failed to knock out electricity",
+              "link": "https://arstechnica.com/?p=2137210",
+              "timestamp": "2026-01-24 19:08:06 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Further cyberattacks on energy grids in other countries",
+        "Response from international cybersecurity organizations",
+        "Analysis of the malware's origin and capabilities",
+        "Potential links to ongoing geopolitical tensions",
+        "Impact on global energy markets"
+      ]
+    },
+    "sig_14daded3": {
+      "signalId": "sig_14daded3",
+      "generatedAt": "2026-01-25T01:07:43.330Z",
+      "header": {
+        "title": "Russia launches strikes on Kyiv and Kharkiv, escalating war with Ukraine",
+        "text": "Despite ongoing trilateral discussions in Abu Dhabi aimed at ending the conflict, Russia launched strikes on Kyiv and Kharkiv, resulting in at least one death and multiple injuries. This marks a severe escalation in the war between Russia and Ukraine.",
+        "sentiment": "neutral",
+        "deltaType": "escalation",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Russia",
+          "Ukraine"
+        ],
+        "what": "strikes on Kyiv and Kharkiv",
+        "where": "Abu Dhabi, Kyiv, Kharkiv",
+        "when": "2026-01-24",
+        "why": "Ongoing trilateral discussions in Abu Dhabi aimed at ending the conflict",
+        "soWhat": "Escalation of the war between Russia and Ukraine"
+      },
+      "source": [
+        {
+          "feedId": "15",
+          "source": "BBC World",
+          "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+          "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+          "timestamp": "2026-01-24 16:56:55 UTC"
+        },
+        {
+          "feedId": "6",
+          "source": "Al Jazeera",
+          "title": "US-brokered Russia-Ukraine talks close with no breakthrough",
+          "link": "https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale",
+          "timestamp": "Sat, 24 Jan 2026 18:32:32 +0000 UTC"
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Russia launched strikes on Kyiv and Kharkiv",
+          "claimB": "Ongoing trilateral discussions in Abu Dhabi aimed at ending the conflict",
+          "sourceA": [
+            {
+              "feedId": "15",
+              "source": "BBC World"
+            }
+          ],
+          "sourceB": [
+            {
+              "feedId": "6",
+              "source": "Al Jazeera",
+              "title": "MicroSD Express cards and Anker’s travel adapter rule the deal roost this week",
+              "link": "https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale",
+              "timestamp": "2026-01-24 18:21:02 UTC"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Russia-Ukraine talks",
+        "US-China trade deal"
+      ]
+    },
+    "sig_69da623": {
+      "signalId": "sig_69da623",
+      "generatedAt": "2026-01-25T01:14:07.443Z",
+      "header": {
+        "title": "Trump threatens Canada with 100% tariffs over China trade deal",
+        "text": "President Trump said he would impose tariffs if Canada made 'a deal with China,' though there is no sign that those countries are discussing a broad trade agreement.",
+        "sentiment": "neutral",
+        "category": "Conflicts"
+      },
+      "fiveWs": {
+        "who": [
+          "Trump"
+        ],
+        "what": "imposed tariff threat",
+        "where": "Canada",
+        "when": "2026-01-24",
+        "why": "made 'a deal with China'"
+      },
+      "source": [
+        {
+          "feedId": "20",
+          "source": "NY Times World",
+          "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
+          "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+          "timestamp": "2026-01-24 16:00:00 UTC"
+        },
+        {
+          "feedId": "19",
+          "source": "Al Jazeera",
+          "title": "Trump threatens 100 percent tariff on Canada over China deal",
+          "link": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss",
+          "timestamp": "Sat, 24 Jan 2026 16:11:38 +0000 UTC"
+        }
+      ],
+      "counterpoints": [
+        {
+          "claimA": "Trump threatens Canada with 100% tariffs",
+          "claimB": "No sign that those countries are discussing a broad trade agreement",
+          "sourceA": [
+            {
+              "feedId": "20",
+              "source": "NY Times World"
+            }
+          ],
+          "sourceB": [
+            {
+              "feedId": "19",
+              "source": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "watchNext": [
+        "Canada-China trade deal",
+        "US-China trade relations"
+      ]
     }
   },
   "globalState": {
     "isOnline": true,
-    "lastChecked": "2026-01-24T09:09:59.420Z",
+    "lastChecked": "2026-01-25T01:22:23.563Z",
     "lastError": null
   }
 }
