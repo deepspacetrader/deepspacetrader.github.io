@@ -1,5 +1,4 @@
-# This is the github pages public access URL
-## Deep Space Trader Game
+# Deep Space Trader Game
 ### Play Game --> https://deepspacetrader.github.io/
 Source code is here: https://github.com/deepspacetrader/game-code
 
