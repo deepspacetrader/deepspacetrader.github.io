@@ -12,7 +12,7 @@ SignalFrame Source Code: https://github.com/deepspacetrader/SignalFrame
 
 
 
-# Deep Space Trader Game
+# Deep Space Trading Game
 
 ![Game Screenshot](screen-shot.jpg)
 
