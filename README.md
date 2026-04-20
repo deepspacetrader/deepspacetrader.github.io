@@ -4,14 +4,6 @@ Source code is here: https://github.com/deepspacetrader/game-code
 
 ---
 
-# SignalFrame (AI Powered News Intelligence Reports)
-### SignalFrame Demo --> https://deepspacetrader.github.io/signalframe/
-SignalFrame Source Code: https://github.com/deepspacetrader/SignalFrame
-
-
-
-
-
 # Deep Space Trading Game
 
 ![Game Screenshot](screen-shot.jpg)
